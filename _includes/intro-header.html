@@ -11,24 +11,6 @@
         background: {{ page.header-bg-css }};
     }
 
-    /* 统一各页面头部大图的宽高比：高 = 宽 × 6/16（纯文字头部 style-text 除外） */
-    header.intro-header:not(.style-text){
-        aspect-ratio: 3 / 1;
-        min-height: 260px; /* 小屏幕下限，防止内容被裁剪 */
-        display: flex;
-        align-items: center;
-        overflow: hidden;
-    }
-    header.intro-header:not(.style-text) .container{
-        width: 100%;
-    }
-    /* 头部高度不再由内容撑开，减小内边距让内容在比例内居中 */
-    header.intro-header:not(.style-text) .site-heading,
-    header.intro-header:not(.style-text) .post-heading,
-    header.intro-header:not(.style-text) .page-heading{
-        padding: 40px 0;
-    }
-
     {% if page.header-mask %}
     header.intro-header .header-mask{
         width: 100%;

@@ -73,7 +73,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Life is short so if you want to do a lot, it helps to move fast."
+sidebar-about-description: "Make something people want&love."
 sidebar-avatar: /img/about-arvin-gentle.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

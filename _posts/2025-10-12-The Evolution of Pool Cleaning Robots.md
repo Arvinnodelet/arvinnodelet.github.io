@@ -90,3 +90,5 @@ tags:
     * sensor：Vision、Laser、Ultrasonic、Water quality sensor etc. 
     * Energy-Saving motor、Battery
     * 场景：场景分类的产品规划（不同资源类别的公司切入点儿都不一样，主要头部厂家的产品规划也不太一样，大家在市场理解上的分歧还是比较大。
+
+![](/img/article-bg-img.png)

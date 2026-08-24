@@ -1,6 +1,6 @@
 # Site settings
 title: 
-SEOTitle: Arvin的博客 | Arvin Blog
+SEOTitle: Arvin 的博客 | Arvin Blog
 header-img: img/home-bg0.jpg
 email: arvinzhouai@gmail.com
 description: "这里是 @Arvin 的个人博客，我们一起学习产品，探索 AI 硬件，产品经理，人工智能，好玩儿的硬件，生活"
@@ -68,8 +68,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-# ga_domain: 
+ga_track_id: "G-6Z4YYR1PPF" # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.

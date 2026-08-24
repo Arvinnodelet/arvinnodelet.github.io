@@ -115,14 +115,15 @@
 </script>
 
 
+{% if site.ga_track_id %}
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6Z4YYR1PPF"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_track_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-6Z4YYR1PPF');
+  gtag('config', '{{ site.ga_track_id }}');
 </script>
 {% endif %}
 

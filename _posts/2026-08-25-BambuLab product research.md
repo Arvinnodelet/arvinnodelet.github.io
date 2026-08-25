@@ -5,7 +5,8 @@ subtitle:   "了解行业，先从历史开始"
 date:       2026-08-25
 author:     "Arvin"
 catalog: true
-header-img: "img/in-post/pst-bg-x2d-1h7focijmcj-sm.jpg"
+header-img: "img/in-post/3D printer/post-bg-x2d-1h7focijmcj-sm.jpg"
+header-mask: false
 tags:
     - 3D 打印机
 ---

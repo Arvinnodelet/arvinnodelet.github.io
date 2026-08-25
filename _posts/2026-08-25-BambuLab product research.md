@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      "3D 打印机龙头 -- 拓竹科技产品研究"
-subtitle:   "了解行业，先从历史开始"
+subtitle:   "拓竹3D打印机产品线与核心技术"
 date:       2026-08-25
 author:     "Arvin"
 catalog: true
 header-img: "img/in-post/3D printer/post-bg-x2d-1h7focijmcj-sm.jpg"
-header-mask: false
+header-mask: 0.3
 tags:
     - 3D 打印机
 ---
@@ -346,7 +346,7 @@ Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动
 
 涡流传感器（Eddy Current Sensor）是拓竹"全自动校准"产品哲学的关键使能技术。它基于**电磁感应原理**，通过高频交变磁场测量金属热端散热片与线圈之间的距离变化，以单一低成本的非接触式传感器，替代了传统方案中需要多个独立传感器（限位开关 + 压力传感器 + 摄像头）才能完成的功能集群。
 
-###### 涡流传感器概述
+##### 涡流传感器概述
 
 | 功能 | 说明 |
 |------|------|
@@ -739,6 +739,9 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
 
 - **安装位置**：类似 H2D 的双传感架构——1 个在主直驱挤出机端、1 个在辅 Bowden 端
 - 官方备件名称为 `Eddy Sensor - Right - X2D`，证实了左右独立设计
+
+![双喷嘴](/img/in-post/3D%20printer/nozzle-sm.jpg) 
+![伺服挤出机](/img/in-post/3D%20printer/servo-extruder-sm.jpg)
 
 ---
 
@@ -1339,3 +1342,7 @@ X1 系列是**唯一搭载 Micro LiDAR 的产品线**。从 A1 mini（2023）开
 - [3D Printing StackExchange - Is the Bambu Lidar a structured light camera?](https://3dprinting.stackexchange.com/questions/23243)
 - [Bambu Lab Forum - Does lidar see Z?](https://forum.bambulab.com/t/does-lidar-see-z/156741)
 - [Bambu Lab Forum - A1 Nozzle Magnet Mechanism](https://forum.bambulab.com/t/how-does-nozzle-magnet-work/218936)
+
+备注：图片来源与 Bambulab 官网，版权归 Bambulab 所有，侵权敬请联系我删除。
+
+![](/img/article-bg-img.png)

@@ -62,6 +62,6 @@ Python、C++
 
 **联系**
 
-邮箱：arvinzhouai@gmail.com
+邮箱：<arvinzhouai@gmail.com>
 
 期待在此与你相遇，共同打造下一代智能硬件产品。

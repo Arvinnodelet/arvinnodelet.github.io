@@ -65,6 +65,6 @@ If you have free time, feel free to invite me for a cup of tea.
 
 **contact**
 
-E-mail：arvinzhouai@gmail.com
+E-mail：<arvinzhouai@gmail.com>
 
 I look forward to meeting you here and jointly building the next generation of intelligent hardware products.

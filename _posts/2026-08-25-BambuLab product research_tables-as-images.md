@@ -175,6 +175,8 @@ H 系列是拓竹的顶级产品线，集 **3D 打印 + 激光雕刻 + 数字刀
 
 ### 3. 核心技术矩阵
 
+![](/img/in-post/3D%20printer/Bambulab-Core-Technology.jpg)
+
 Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动控制系统，中间层是传感器与检测系统，顶层是智能化软件与生态。下表列出截至 2026 年 6 月的核心差异化技术：
 
 ![表格 19](/img/in-post/bambulab_tables/table_19.png)
@@ -186,6 +188,8 @@ Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动
 涡流传感器（Eddy Current Sensor）是拓竹"全自动校准"产品哲学的关键使能技术。它基于**电磁感应原理**，通过高频交变磁场测量金属热端散热片与线圈之间的距离变化，以单一低成本的非接触式传感器，替代了传统方案中需要多个独立传感器（限位开关 + 压力传感器 + 摄像头）才能完成的功能集群。
 
 ##### 涡流传感器概述
+
+![](/img/in-post/3D%20printer/Bambulab-Eddy-Current-sensor.jpg)
 
 ![表格 20](/img/in-post/bambulab_tables/table_20.png)
 
@@ -554,6 +558,8 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
 
 热端（Hotend）是 3D 打印机的核心执行部件——直接影响打印温度上限、流量（速度）、材料兼容性和维护便利性。拓竹的热端设计经历了三代演进，从 X1/P1 的一体式完整组件，到 A1 的磁吸快拆，再到 H2/P2/X2 的卡扣快拆跨系列通用平台。
 
+![](/img/in-post/3D%20printer/Bambulab-hotend.jpg)
+
 ##### 设计哲学：一体化热端
 
 与传统 3D 打印机的"喷嘴 + 喉管 + 加热块 + 散热片"分体式结构不同，拓竹所有热端均采用**一体化设计**——将散热片（Heatsink）、喉管/隔热断（Heatbreak）、加热块（Heater Block）和喷嘴（Nozzle）整合为单一组件：
@@ -721,6 +727,8 @@ H2/P2/X2 系列共享全新的**卡扣（Latch/Buckle）快拆平台**，是目�
 #### 3.3 Micro LiDAR 技术详解 🔬
 
 Micro LiDAR 是 X1 系列的标志性传感器，也是拓竹"全自动校准"产品哲学在早期旗舰上的核心载体。然而，它也是拓竹传感器体系中最被**误解**的一项技术——名为"LiDAR"，实为"结构光"。
+
+![](/img/in-post/3D%20printer/Bambulab-Lidar.jpg)
 
 ##### 正名："Micro LiDAR"其实是结构光传感器
 

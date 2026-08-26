@@ -4,7 +4,6 @@ title:      " you only connect the dots looking backward"
 subtitle:   "持续深耕并跨界积累扎实的专业能力与直觉，把它们当作AI时代的核心输入，而不是盲目追逐最新工具"
 date:       2026-08-26
 author:     "Arvin"
-
 header-img: "img/in-post/bgimg/post-think-bg.jpg"
 header-mask: 0.3
 tags:

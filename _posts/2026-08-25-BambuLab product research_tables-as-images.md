@@ -13,7 +13,7 @@ tags:
 
 ## 一、公司概况
 
-![表格 01](bambulab_tables/table_01.png)
+![表格 01](/img/in-post/bambulab_tables/table_01.png)
 
 ### 名字由来
 
@@ -23,7 +23,7 @@ tags:
 
 ## 二、发展历程与里程碑
 
-![表格 02](bambulab_tables/table_02.png)
+![表格 02](/img/in-post/bambulab_tables/table_02.png)
 
 ---
 
@@ -43,7 +43,7 @@ A2L      (330³)    →    [P1P (256³)]†                               →   
 ```
 ### 产品定位矩阵
 
-![表格 03](bambulab_tables/table_03.png)
+![表格 03](/img/in-post/bambulab_tables/table_03.png)
 
 >核心用户群体：根据社交媒体总结（reddit）
 
@@ -55,15 +55,15 @@ A2L      (330³)    →    [P1P (256³)]†                               →   
 
 #### A1 mini
 
-![表格 04](bambulab_tables/table_04.png)
+![表格 04](/img/in-post/bambulab_tables/table_04.png)
 
 #### A1
 
-![表格 05](bambulab_tables/table_05.png)
+![表格 05](/img/in-post/bambulab_tables/table_05.png)
 
 #### 🆕 A2L（2026 年 6 月发布）
 
-![表格 06](bambulab_tables/table_06.png)
+![表格 06](/img/in-post/bambulab_tables/table_06.png)
 
 > ⚠️ A2L 仍是开放式结构，不适合打印 ABS 等高温工程材料。评测者称赞其大尺寸性价比，但指出摄像头质量老旧，多色打印仍有大量冲洗废料。
 
@@ -73,13 +73,13 @@ A2L      (330³)    →    [P1P (256³)]†                               →   
 
 #### P2S（P 系列最新旗舰）
 
-![表格 07](bambulab_tables/table_07.png)
+![表格 07](/img/in-post/bambulab_tables/table_07.png)
 
 > P2S 被称为"性价比之王"——性能对标 X1C，价格仅为其 1/3。是学校采购和家庭使用的主力推荐。
 
 #### P1S（仍在售，定位下移）
 
-![表格 08](bambulab_tables/table_08.png)
+![表格 08](/img/in-post/bambulab_tables/table_08.png)
 
 ---
 
@@ -87,7 +87,7 @@ A2L      (330³)    →    [P1P (256³)]†                               →   
 
 #### 🆕 X2D（2026 年 4 月 14 日发布）
 
-![表格 09](bambulab_tables/table_09.png)
+![表格 09](/img/in-post/bambulab_tables/table_09.png)
 
 > X2D 被社区称为"穷人的 H2D"——比 P2S 仅贵 $100，却多了双喷嘴和主动腔温加热，极具性价比突破意义。但需注意辅助 Bowden 喷嘴的打印品质略逊于主喷嘴，更适合用于支撑材料。
 
@@ -99,28 +99,28 @@ H 系列是拓竹的顶级产品线，集 **3D 打印 + 激光雕刻 + 数字刀
 
 #### 通用参数（全系列共享）
 
-![表格 10](bambulab_tables/table_10.png)
+![表格 10](/img/in-post/bambulab_tables/table_10.png)
 
 #### H2S — 单喷嘴效率王
 
-![表格 11](bambulab_tables/table_11.png)
+![表格 11](/img/in-post/bambulab_tables/table_11.png)
 
 #### H2D — 双喷嘴材料工程机
 
-![表格 12](bambulab_tables/table_12.png)
+![表格 12](/img/in-post/bambulab_tables/table_12.png)
 
 #### H2D Pro — 企业版
 - 在 H2D 基础上增加碳化钨喷嘴、以太网口、热稳定性改进。面向企业级应用。
 
 #### 🆕 H2C — 多材料动力站
 
-![表格 13](bambulab_tables/table_13.png)
+![表格 13](/img/in-post/bambulab_tables/table_13.png)
 
 > 🔥 Vortek 系统被誉为行业首创技术，解决了 3D 打印多色切换的废料难题。
 
 #### H 系列选购指南
 
-![表格 14](bambulab_tables/table_14.png)
+![表格 14](/img/in-post/bambulab_tables/table_14.png)
 
 ---
 
@@ -130,15 +130,15 @@ H 系列是拓竹的顶级产品线，集 **3D 打印 + 激光雕刻 + 数字刀
 
 拓竹的 AMS（Automatic Material System）是实现多色打印的核心配件。
 
-![表格 15](bambulab_tables/table_15.png)
+![表格 15](/img/in-post/bambulab_tables/table_15.png)
 
 ### 打印机-AMS 兼容性矩阵
 
-![表格 16](bambulab_tables/table_16.png)
+![表格 16](/img/in-post/bambulab_tables/table_16.png)
 
 ### 其他配件
 
-![表格 17](bambulab_tables/table_17.png)
+![表格 17](/img/in-post/bambulab_tables/table_17.png)
 
 ### 耗材生态
 
@@ -157,7 +157,7 @@ H 系列是拓竹的顶级产品线，集 **3D 打印 + 激光雕刻 + 数字刀
 
 ### 全面对比
 
-![表格 18](bambulab_tables/table_18.png)
+![表格 18](/img/in-post/bambulab_tables/table_18.png)
 
 ---
 
@@ -177,7 +177,7 @@ H 系列是拓竹的顶级产品线，集 **3D 打印 + 激光雕刻 + 数字刀
 
 Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动控制系统，中间层是传感器与检测系统，顶层是智能化软件与生态。下表列出截至 2026 年 6 月的核心差异化技术：
 
-![表格 19](bambulab_tables/table_19.png)
+![表格 19](/img/in-post/bambulab_tables/table_19.png)
 
 > 以下 3.1–3.3 章节对表中三项核心传感器技术展开深度分析。
 
@@ -187,7 +187,7 @@ Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动
 
 ##### 涡流传感器概述
 
-![表格 20](bambulab_tables/table_20.png)
+![表格 20](/img/in-post/bambulab_tables/table_20.png)
 
 ##### 喷嘴包裹检测（裹头检测）详细机制
 
@@ -212,7 +212,7 @@ Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动
 
 ###### A1 系列检测流程
 
-![表格 21](bambulab_tables/table_21.png)
+![表格 21](/img/in-post/bambulab_tables/table_21.png)
 
 **执行步骤**：
 1. 工具头移动到热床外侧安全区域（吐料槽/侧边）
@@ -225,14 +225,14 @@ Bambu Lab 的技术体系可归结为一个**三层架构**——底层是运动
 
 H2D 配备了双涡流传感器，裹头触碰检测独立于喷嘴摄像头：
 
-![表格 22](bambulab_tables/table_22.png)
+![表格 22](/img/in-post/bambulab_tables/table_22.png)
 
 - 双涡流传感器（左+右）各自独立检测对应喷嘴的裹头状态
 - 不适合柔性 TPU（料团不触发传感器）、逐件打印和螺旋花瓶模式
 
 ###### 误判的常见原因
 
-![表格 23](bambulab_tables/table_23.png)
+![表格 23](/img/in-post/bambulab_tables/table_23.png)
 
 ---
 
@@ -267,7 +267,7 @@ X1 系列**没有涡流传感器**，依赖腔体角落的摄像头 + 机载 NPU
 
 H2 系列是唯一同时具备两种裹头检测方案的机型：
 
-![表格 24](bambulab_tables/table_24.png)
+![表格 24](/img/in-post/bambulab_tables/table_24.png)
 
 - **喷嘴摄像头自动降级**：当工具头温度 > 85°C（高温材料打印前期），视觉检测自动关闭，此时仅靠涡流触碰探测——强烈建议用户始终保持两者同时开启
 - **NPU 规格**：H 系列搭载自研 NPU，算力 **2 TOPS**，所有 AI 推理本地运行
@@ -279,7 +279,7 @@ P2S 和 H2S 使用单涡流传感器，同时借助腔体摄像头进行 AI 炒�
 
 ###### 全系列裹头/炒面检测方案对比
 
-![表格 25](bambulab_tables/table_25.png)
+![表格 25]/img/in-post/bambulab_tables/table_25.png)
 
 > 💡 **技术演进路线**：涡流传感器物理探测（A1/A2L 入门机）→ 物理探测 + 腔体 AI 融合（P2S/H2S/X2D 中高端）→ 物理探测 + 喷嘴 AI + 腔体 AI 三重冗余（H2D/H2C 旗舰）。X1C 作为早期旗舰采用纯视觉路线，后继产品线已全面转向物理探测为主的方案，体现了涡流传感器作为"一专多能"核心传感器的战略价值。
 
@@ -347,7 +347,7 @@ P2S 和 H2S 使用单涡流传感器，同时借助腔体摄像头进行 AI 炒�
 
 这是每次换料后为该卷耗材建立"压力-流量特性"的自动校准过程：
 
-![表格 26](bambulab_tables/table_26.png)
+![表格 26](/img/in-post/bambulab_tables/table_26.png)
 
 - **K 值含义**：K 值代表压力提前补偿的幅度。K 值越大，补偿量越大；过大导致拐角欠挤，过小导致拐角堆料。以 0.4mm 喷嘴 PLA 为例，典型 K 值范围 **0.015~0.045**
 - **涡流校准的 K 值通常高于手动校准值**——这是官方特意设计的策略，以优先避免拐角堆料
@@ -355,7 +355,7 @@ P2S 和 H2S 使用单涡流传感器，同时借助腔体摄像头进行 AI 炒�
 
 **与 X1 系列 LiDAR 校准的本质区别：**
 
-![表格 27](bambulab_tables/table_27.png)
+![表格 27](/img/in-post/bambulab_tables/table_27.png)
 
 ###### 环节二：打印中的实时闭环补偿
 
@@ -383,7 +383,7 @@ P2S 和 H2S 使用单涡流传感器，同时借助腔体摄像头进行 AI 炒�
 
 **各运动阶段的补偿策略：**
 
-![表格 28](bambulab_tables/table_28.png)
+![表格 28](/img/in-post/bambulab_tables/table_28.png)
 
 ###### P2S 进化：涡流 + PMSM 伺服双传感融合
 
@@ -400,7 +400,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
   双信号融合 → 更精准的闭环控制
 ```
 
-![表格 29](bambulab_tables/table_29.png)
+![表格 29](/img/in-post/bambulab_tables/table_29.png)
 
 两层传感器各司其职：
 - **涡流传感器**：测量喷嘴内部的**实际压力**（"熔体在做什么"）
@@ -410,7 +410,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
 
 ###### 与竞品 Pressure Advance 的本质区别
 
-![表格 30](bambulab_tables/table_30.png)
+![表格 30](/img/in-post/bambulab_tables/table_30.png)
 
 > 💡 **核心洞察**：主动流量补偿是拓竹从大疆继承的"机电一体化"系统工程的集中体现。将涡流传感器复用为**实时挤出压力传感器**，把 3D 打印的开环挤出变成了真正的闭环伺服控制系统——这本质上不只是一个传感器创新，而是将无人机飞控的实时闭环控制方法论迁移到了 FDM 挤出领域。
 
@@ -500,7 +500,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
          └──────────────────────┘
 ```
 
-![表格 31](bambulab_tables/table_31.png)
+![表格 31](/img/in-post/bambulab_tables/table_31.png)
 
 - **数量**：**2 个**独立涡流传感器（左、右各一，不可互换）
 - **间隙要求**：左侧传感器与抬升滑块之间需保持 **~0.2mm** 间隙（对折 A4 纸测量）
@@ -520,7 +520,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
 
 ##### 跨系列对比总结
 
-![表格 32](bambulab_tables/table_32.png)
+![表格 32](/img/in-post/bambulab_tables/table_32.png)
 
 ##### 关键安装要点（通用）
 
@@ -558,7 +558,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
 
 与传统 3D 打印机的"喷嘴 + 喉管 + 加热块 + 散热片"分体式结构不同，拓竹所有热端均采用**一体化设计**——将散热片（Heatsink）、喉管/隔热断（Heatbreak）、加热块（Heater Block）和喷嘴（Nozzle）整合为单一组件：
 
-![表格 33](bambulab_tables/table_33.png)
+![表格 33](/img/in-post/bambulab_tables/table_33.png)
 
 ##### 热端材料结构
 
@@ -578,7 +578,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
         └─────────────────────┘
 ```
 
-![表格 34](bambulab_tables/table_34.png)
+![表格 34](/img/in-post/bambulab_tables/table_34.png)
 
 ##### 各系列热端架构详解
 
@@ -606,7 +606,7 @@ PMSM 伺服挤出机 DynaSense（20 kHz 采样）
 └────────────────────────────────┘
 ```
 
-![表格 35](bambulab_tables/table_35.png)
+![表格 35](/img/in-post/bambulab_tables/table_35.png)
 
 - **更换方式**：断开 3 个插头（陶瓷加热器 2pin + 热敏电阻 2pin + 风扇 4pin）→ 拧下 2 颗 H2.0 螺丝 → 抽出整个组件。需工具，约 2-3 分钟
 - **X1E 特别说明**：X1E 配备硬化钢喷嘴 + 硬化钢挤出机齿轮，最高腔温支持 60°C，专为工程材料（PA/PC/ABS）优化
@@ -631,7 +631,7 @@ A 系列采用了革命性的**热端-加热组件分离架构**，将"热路径
    拔插即换               永久连接主板
 ```
 
-![表格 36](bambulab_tables/table_36.png)
+![表格 36](/img/in-post/bambulab_tables/table_36.png)
 
 **快拆流程（免工具，< 30 秒）**：
 1. 确保热端已完全冷却
@@ -672,7 +672,7 @@ H2/P2/X2 系列共享全新的**卡扣（Latch/Buckle）快拆平台**，是目�
 └────────────────────────────────────────────┘
 ```
 
-![表格 37](bambulab_tables/table_37.png)
+![表格 37](/img/in-post/bambulab_tables/table_37.png)
 
 **高流量热端的内部奥秘**：
 高流量热端不增加长度（非 Volcano 方案），而是在熔融腔内采用了类似 CHT（Core Heating Technology）的多流道分流设计——将单股粗耗材在熔融腔内**分流为多股薄流**，极大增加表面积/体积比，从而实现更快速、更均匀的熔融，且不牺牲打印精度。
@@ -690,23 +690,23 @@ H2/P2/X2 系列共享全新的**卡扣（Latch/Buckle）快拆平台**，是目�
 
 ##### 快拆机制三代演进对比
 
-![表格 38](bambulab_tables/table_38.png)
+![表格 38](/img/in-post/bambulab_tables/table_38.png)
 
 > 💡 演进方向很清晰：拓竹将热端从"维修件"重新定义为"耗材级快换件"——第二代解决了电子连接器的可靠性痛点，第三代进一步统一了中高端产品线平台，降低了备件库存和用户选择成本。
 
 ##### 喷嘴直径选用指南
 
-![表格 39](bambulab_tables/table_39.png)
+![表格 39](/img/in-post/bambulab_tables/table_39.png)
 
 > ⚠️ **碳纤维/玻纤/金属填充耗材**：必须使用 0.6mm 或以上硬化钢喷嘴，且不可使用 0.2mm 喷嘴（必定堵塞）。
 
 ##### 全系列热端参数总览
 
-![表格 40](bambulab_tables/table_40.png)
+![表格 40](/img/in-post/bambulab_tables/table_40.png)
 
 ##### 第三方热端生态
 
-![表格 41](bambulab_tables/table_41.png)
+![表格 41](/img/in-post/bambulab_tables/table_41.png)
 
 > ⚠️ **注意**：使用第三方热端会导致涡流传感器校准失效（散热片-线圈间隙改变），且可能影响自动流量补偿精度。官方强烈建议使用原装热端。
 
@@ -726,7 +726,7 @@ Micro LiDAR 是 X1 系列的标志性传感器，也是拓竹"全自动校准"�
 
 在 3D 打印社区和 StackExchange 的技术讨论中，有一个广泛共识：Bambu Lab 所谓的"Micro LiDAR"**并非真正的飞行时间（ToF）激光雷达**，而是一个**基于激光三角测量的结构光传感器**。
 
-![表格 42](bambulab_tables/table_42.png)
+![表格 42](/img/in-post/bambulab_tables/table_42.png)
 
 **社区证据**：
 - X1Plus 自定义固件开发者 `mugglesmuggle` 确认：*"I do know what the lidar camera does. It's just a normal camera that captures normal images, we've got dumps of them."*
@@ -759,7 +759,7 @@ Micro LiDAR 是 X1 系列的标志性传感器，也是拓竹"全自动校准"�
 
 **双版本演进**：
 
-![表格 43](bambulab_tables/table_43.png)
+![表格 43](/img/in-post/bambulab_tables/table_43.png)
 
 > ⚠️ **不可混用**：单红版 LiDAR + 双红版 TH 板（或反过来）混插会导致**电路烧毁**。若单红版 TH 板损坏，Bambu Lab 提供免费升级至双红版（保修内）/ 仅付 TH 板费用（保修外）。
 
@@ -796,7 +796,7 @@ Micro LiDAR 是 X1 系列的标志性传感器，也是拓竹"全自动校准"�
 
 ###### 功能一：喷嘴高度探测（Nozzle Height Probing）
 
-![表格 44](bambulab_tables/table_44.png)
+![表格 44](/img/in-post/bambulab_tables/table_44.png)
 
 > ⚠️ **社区发现**：LiDAR 并不负责生成完整的热床网格（bed mesh）。X1C 的热床调平主力是力传感器（36+ 格点接触探测），LiDAR 仅在部分测点进行**辅助验证**——检查力传感器读数是否合理。这解释了为什么不少用户观察到 LiDAR 激光并非在每个探测点都亮起。
 
@@ -830,25 +830,25 @@ Micro LiDAR 是 X1 系列的标志性传感器，也是拓竹"全自动校准"�
 └──────────────────────┘
 ```
 
-![表格 45](bambulab_tables/table_45.png)
+![表格 45](/img/in-post/bambulab_tables/table_45.png)
 
 ###### 功能三：首层检测（First Layer Inspection）
 
 打印完第一层后，LiDAR 自动扫描整个首层——这是 X1C 独有的质量保障功能：
 
-![表格 46](bambulab_tables/table_46.png)
+![表格 46](/img/in-post/bambulab_tables/table_46.png)
 
 检测通过 → 继续打印；检测异常 → 暂停 + HMS 报警 + 推送 App 通知。这是全自动的，无需用户盯着第一层看。
 
 ##### LiDAR 方案的固有局限
 
-![表格 47](bambulab_tables/table_47.png)
+![表格 47](/img/in-post/bambulab_tables/table_47.png)
 
 ##### 为什么后继机型放弃了 LiDAR
 
 X1 系列是**唯一搭载 Micro LiDAR 的产品线**。从 A1 mini（2023）开始，所有后继机型——A1、P2S、H2D、X2D、H2S、A2L——全部切换至**涡流传感器方案**。这是拓竹传感器战略的重大转向：
 
-![表格 48](bambulab_tables/table_48.png)
+![表格 48](/img/in-post/bambulab_tables/table_48.png)
 
 > 💡 **一句话**：LiDAR 是拓竹早期"不惜工本秀技术"的传感器选择，涡流传感器则是成熟期"一个传感器解决所有问题"的工程收敛。X1 系列 EOL 后，Micro LiDAR 作为独立技术路线也随之成为历史。但其流量校准和首层检测的思想——"直接测量打印结果而非依赖模型预测"——在涡流传感器的挤出力闭环控制中得到了继承和升华。
 
@@ -857,7 +857,7 @@ X1 系列是**唯一搭载 Micro LiDAR 的产品线**。从 A1 mini（2023）开
 > **图例**：✅ 公开确认 | 🟡 行业推断/未公开确认 | — 未搭载 | `数字` 已确认数量
 > 推断来源于 reddit，需要确认
 
-![表格 49](bambulab_tables/table_49.png)
+![表格 49](/img/in-post/bambulab_tables/table_49.png)
 
 > **说明**：
 > - **涡流传感器**：数量来自官方 Wiki 及备件商店。H2D/H2C/X2D 左/右各一独立传感器（不可互换），其余为单线圈
@@ -889,11 +889,11 @@ X1 系列是**唯一搭载 Micro LiDAR 的产品线**。从 A1 mini（2023）开
 
 ### 市场地位
 
-![表格 50](bambulab_tables/table_50.png)
+![表格 50](/img/in-post/bambulab_tables/table_50.png)
 
 ### 竞争对手对比
 
-![表格 51](bambulab_tables/table_51.png)
+![表格 51](/img/in-post/bambulab_tables/table_51.png)
 
 ### 竞争策略分析
 
@@ -907,7 +907,7 @@ X1 系列是**唯一搭载 Micro LiDAR 的产品线**。从 A1 mini（2023）开
 
 ## 九、客户群体
 
-![表格 52](bambulab_tables/table_52.png)
+![表格 52](/img/in-post/bambulab_tables/table_52.png)
 
 ### 关于 AMS 的提醒
 

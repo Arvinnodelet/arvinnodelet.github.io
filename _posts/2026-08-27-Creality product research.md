@@ -62,9 +62,9 @@ Ender 5 S1  (220³)                             HALOT-Sky
 
 另外：3D 扫描仪（CR-Scan 系列）、激光雕刻机（Falcon 系列）
 ```
+![](/img/in-post/3D%20printer/creality_tables/business%20overview.png)
 
 ![表格 03](/img/in-post/3D%20printer/creality_tables/table_03.png)
-
 
 ## 四、各系列产品详解
 
@@ -78,7 +78,7 @@ K2 系列是创想三维 2024–2025 年推出的旗舰产品线，代表公司�
 > 🏆 K2 Plus 获得 **2025 Red Dot 设计奖**。
 
 #### K2 Pro
-![表格 05](/img/in-post/3D%20printer/creality_tabless/table_05.png)
+![表格 05](/img/in-post/3D%20printer/creality_tables/table_05.png)
 
 #### K2
 ![表格 06](/img/in-post/3D%20printer/creality_tables/table_06.png)

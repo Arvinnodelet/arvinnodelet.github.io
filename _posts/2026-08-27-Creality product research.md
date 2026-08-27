@@ -90,7 +90,7 @@ K2 系列是创想三维 2024–2025 年推出的旗舰产品线，代表公司�
 
 K1 系列是创想三维 2023 年推出的首款 CoreXY 高速产品线，对标 Bambu Lab X1/P1 系列。2025 年可通过 CFS 升级套件支持多色打印。
 
-![表格 07](/img/in-post/3D%20printer/creality_tabless/table_07.png)
+![表格 07](/img/in-post/3D%20printer/creality_tables/table_07.png)
 
 **K1 系列核心技术特点**：
 - **CoreXY 结构**：全系采用 CoreXY 构型，刚性铝合金框架

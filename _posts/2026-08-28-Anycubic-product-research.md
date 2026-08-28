@@ -4,7 +4,7 @@ title:      "纵维立方（Anycubic）产品研究报告"
 subtitle:   "纵维立方（Anycubic）产品业务布局及核心技术"
 date:       2026-08-28
 author:     "Arvin"
-header-img: "img/in-post/3D%20printer/creality_tables/post-creality-hg.jpg"
+header-img: "img/in-post/3D%20printer/anycubic_diagrams/haead-bg.jpg"
 header-mask: 0.3
 tags:
     - 3D 打印机

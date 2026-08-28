@@ -386,5 +386,3 @@ LeviQ 3.0 的关键改进是 **49 点高密度网格**（上一代 LeviQ 2.0 为
 - [Reddit r/3Dprinting](https://reddit.com/r/3Dprinting)
 - [什么值得买 — 3D 打印](https://www.smzdm.com)
 - [南极熊 3D 打印](https://www.nanjixiong.com)
-
----

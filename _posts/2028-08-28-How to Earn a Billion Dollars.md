@@ -11,21 +11,7 @@ tags:
     - Think
 ---
 
-
-<div style="
-  background: #e8eef4;
-  border-radius: 12px;
-  padding: 14px 18px;
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
-  font-size: 15px;
-  line-height: 1.6;
-  color: #333;
-">
-  <span style="color: #e74c3c; font-size: 18px; line-height: 1.4;"></span>
-  <div>
-推荐语
+**推荐语**
 
 我特别喜欢硅谷创投教父 [Paul Graham 的博客](https://paulgraham.com/index.html "Paul Graham blog") 文章。
 PG 对教育、青少年成长、创业与投资、思维方式等极富洞见。
@@ -36,8 +22,10 @@ PG 对教育、青少年成长、创业与投资、思维方式等极富洞见�
 2. 做自己的项目：获得真知和判断力的唯一途径
    
 因此，我想翻译一下保存下来，翻译水平有限，所以保留原文保证原汁原味。
-  </div>
-</div>
+
+---
+
+**How to Earn a Billion Dollars**
 
 (本文基于我在牛津辩论社的一次演讲。)
 

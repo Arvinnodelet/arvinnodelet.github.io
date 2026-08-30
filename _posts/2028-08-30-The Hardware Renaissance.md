@@ -60,3 +60,5 @@ We know there's room for the next Steve Jobs. But there's almost certainly also 
 Thanks to Sam Altman, Trevor Blackwell, David Cann, Sanjay Dastoor, Paul Gerhardt, Cameron Robertson, Harj Taggar, and Garry Tan for reading drafts of this.
 
 感谢 Sam Altman、Trevor Blackwell、David Cann、Sanjay Dastoor、Paul Gerhardt、Cameron Robertson、Harj Taggar 和 Garry Tan 阅读本文草稿。
+
+![](/img/article-bg-img.png)

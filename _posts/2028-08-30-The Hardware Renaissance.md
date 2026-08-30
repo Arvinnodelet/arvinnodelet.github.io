@@ -25,6 +25,10 @@ PG 对教育、青少年成长、创业与投资、思维方式等极富洞见�
 
 ---
 
+**The Hardware Renaissance**
+
+*October 2012 · Paul Graham*
+
 One advantage of Y Combinator's early, broad focus is that we see trends before most other people. And one of the most conspicuous trends in the last batch was the large number of hardware startups. Out of 84 companies, 7 were making hardware. On the whole they've done better than the companies that weren't.
 
 Y Combinator 早期采取的广泛撒网策略，带来了一个优势，那就是我们能比大多数人更早察觉到趋势。在最近一期孵化班中，最显而易见的趋势之一就是出现了大量的硬件创业公司。在 84 家公司中，有 7 家是做硬件的。总的来说，他们的表现比那些不做硬件的公司还要好。

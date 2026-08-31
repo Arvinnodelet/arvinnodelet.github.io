@@ -9,6 +9,7 @@ header-img: "img/in-post/3D printer/post-bg-x2d-1h7focijmcj-sm.jpg"
 header-mask: 0.3
 tags:
     - 3D 打印机
+    - 3D Print
 ---
 
 ## 一、公司概况

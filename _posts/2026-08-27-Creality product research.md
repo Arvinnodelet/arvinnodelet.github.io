@@ -8,7 +8,7 @@ header-img: "img/in-post/3D%20printer/creality_tables/post-creality-hg.jpg"
 header-mask: 0.3
 tags:
     - 3D 打印机
-    - 3D printer
+    - 3D print
 ---
 
 ## 一、公司概况

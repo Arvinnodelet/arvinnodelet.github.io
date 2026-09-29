@@ -102,7 +102,7 @@ It would mean a lot to me. I want this to be genuinely useful, and to keep makin
 **Now let's start reading the article ⬇️**  
 
 ## Why robotics and not AI engineering  
-## 为什么选择机器人学而不是 AI 工程
+**为什么选择机器人学而不是 AI 工程**
 
 Everyone in your timeline is an AI engineer now, and that is the whole problem  
 你的时间线上现在人人都是 AI 工程师，这正是问题所在
@@ -211,40 +211,35 @@ The most common beginner mistake is watching hours of video without ever buildin
 
 **1. Falstad Circuit Simulator (free, in-browser)**  
 
-Link:  
-[https://www.falstad.com/circuit/](https://www.falstad.com/circuit/)
+Link: [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/)
 
 Animated electron flow and live voltage colouring, so you actually watch current move instead of imagining it, which is the fastest way to build intuition  
 动画电子流和实时电压着色，让你真正看到电流流动而不是靠想象，这是建立直觉最快的方式
 
 **2. Tinkercad Circuits (Autodesk, free with account)**  
 
-Link:  
-[https://www.tinkercad.com/circuits](https://www.tinkercad.com/circuits)
+Link: [https://www.tinkercad.com/circuits](https://www.tinkercad.com/circuits)
 
 The only simulator that gives you a virtual breadboard, a virtual Arduino and a virtual multimeter together, so it catches your wiring mistakes before you own any parts  
 唯一同时提供虚拟面包板、虚拟 Arduino 和虚拟万用表的仿真器，能在你拥有任何零件之前就抓住你的接线错误
 
 **3. All About Circuits, "Lessons in Electric Circuits" (free)**  
 
-Link:  
-[https://www.allaboutcircuits.com/textbook/](https://www.allaboutcircuits.com/textbook/)
+Link: [https://www.allaboutcircuits.com/textbook/](https://www.allaboutcircuits.com/textbook/)
 
 A complete open-licensed EE textbook in six volumes, and this is your reference when a video hand-waves something you need to actually understand  
 六卷完整开源许可的电子工程教材，当视频含糊带过你需要真正理解的内容时，它就是你的参考书
 
 **4. Afrotechmods Tutorials (free)**  
 
-Link:  
-[https://afrotechmods.com/tutorials/](https://afrotechmods.com/tutorials/)
+Link: [https://afrotechmods.com/tutorials/](https://afrotechmods.com/tutorials/)
 
 Short, fast, funny videos sorted into beginner, intermediate and advanced, and the right choice if you bounce off lecture-format teaching  
 短小、快速、有趣的视频，按初级、中级、高级分类，如果你不喜欢讲座式教学，这是正确选择
 
 **5. Make: Electronics, 3rd edition, Charles Platt ($29.99)**  
 
-Link:  
-[https://www.makershed.com/products/make-electronics-3rd-edition-print](https://www.makershed.com/products/make-electronics-3rd-edition-print)
+Link: [https://www.makershed.com/products/make-electronics-3rd-edition-print](https://www.makershed.com/products/make-electronics-3rd-edition-print)
 
 The best single paper book for someone who has never held a multimeter, built around deliberately destroying components to learn their limits  
 对从未拿过万用表的人来说最好的纸质书，围绕故意毁坏元件来学习其极限而构建
@@ -290,24 +285,21 @@ This is the section that decides whether you actually start, so here is the hone
 
 **1. Elegoo UNO R3 Super Starter Kit ($42.99)**
 
-Link:  
-[https://www.elegoo.com/products/elegoo-uno-r3-super-starter-kit](https://www.elegoo.com/products/elegoo-uno-r3-super-starter-kit)
+Link:[https://www.elegoo.com/products/elegoo-uno-r3-super-starter-kit](https://www.elegoo.com/products/elegoo-uno-r3-super-starter-kit)
 
 The best value pick and the kit most beginner courses target, with a pre-soldered LCD, power module and a 22-lesson PDF  
 性价比最高的选择，也是大多数入门课程针对的套件，带预焊 LCD、电源模块和 22 课 PDF
 
 **2. Elegoo UNO Basic Starter Kit ($19.99)**
 
-Link:  
-[https://www.elegoo.com/products/elegoo-uno-basic-starter-kit](https://www.elegoo.com/products/elegoo-uno-basic-starter-kit)
+Link:[https://www.elegoo.com/products/elegoo-uno-basic-starter-kit](https://www.elegoo.com/products/elegoo-uno-basic-starter-kit)
 
 The cheapest real entry point if money is genuinely tight, with an Uno clone and basic passives  
 如果钱真的很紧，这是最便宜的真实入门点，带 Uno 克隆板和基础无源元件
 
 **3. SparkFun Inventor's Kit v4.1.2 ($99.95)**  
 
-Link:  
-[https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html](https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html)
+Link:[https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html](https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html)
 
 The best curriculum of any kit, 16 circuits across 5 projects ending in a working robot, and the free guide is readable even if you buy a cheaper kit  
 所有套件中最好的课程，16 个电路跨越 5 个项目，最终做出能工作的机器人，即使买更便宜的套件，免费指南也很好读
@@ -315,8 +307,7 @@ The best curriculum of any kit, 16 circuits across 5 projects ending in a workin
 **4. Adafruit digital multimeter 9205B+ ($17.50)**  
 **4. Adafruit 数字万用表 9205B+（$17.50）**
 
-Link:  
-[https://www.adafruit.com/product/2034](https://www.adafruit.com/product/2034)
+Link:[https://www.adafruit.com/product/2034](https://www.adafruit.com/product/2034)
 
 Volts, current to 20A, continuity, resistance and capacitance, which is everything you need for years  
 电压、电流到 20A、通断、电阻和电容，这是你未来几年需要的一切
@@ -324,8 +315,7 @@ Volts, current to 20A, continuity, resistance and capacitance, which is everythi
 **5. Pinecil V2 soldering iron ($25.99 community, $35.99 retail)**  
 **5. Pinecil V2 烙铁（社区价 $25.99，零售 $35.99）**
 
-Link:  
-[https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
+Link:[https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
 
 A real temperature-controlled iron for the price of a toy one, USB-C powered, takes standard TS100 and Hakko T12 tips  
 真正的温控烙铁，价格却只相当于玩具级，USB-C 供电，兼容标准 TS100 和 Hakko T12 烙铁头
@@ -365,8 +355,7 @@ At some point a jumper wire will not be good enough, and a robot that shakes its
 **1. Adafruit Guide to Excellent Soldering (free)**  
 **1. Adafruit 优秀焊接指南（免费）**
 
-Link:  
-[https://learn.adafruit.com/adafruit-guide-excellent-soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering)
+Link:[https://learn.adafruit.com/adafruit-guide-excellent-soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering)
 
 Iron selection, joint technique, photographs of every common failure, and safety, and it is the reference everyone in the industry points to  
 烙铁选择、焊点技巧、每种常见失败的照片，以及安全，这是行业内所有人指向的参考
@@ -374,8 +363,7 @@ Iron selection, joint technique, photographs of every common failure, and safety
 **2. SparkFun: How to Use a Multimeter (free)**  
 **2. SparkFun：如何使用万用表（免费）**
 
-Link:  
-[https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
+Link:[https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
 
 Voltage, resistance, current and continuity explained properly, including what to do when you blow the fuse, which you will  
 正确解释电压、电阻、电流和通断，包括当你烧断保险丝时该怎么办（你会烧断的）
@@ -406,33 +394,28 @@ You will use all three every single week from here to month six, so get them out
 **1. CS50P: Introduction to Programming with Python (Harvard, free)**  
 **1. CS50P：Python 编程导论（哈佛，免费）**
 
-Link:  
-[https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
+Link:[https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
 
 More rigorous than most beginner courses, with problem sets and a final project, and the structure is what makes people finish it  
 比大多数入门课程更严谨，有习题集和最终项目，正是这种结构让人能坚持完成
 
 **2. Python for Everybody (Coursera, free to audit)**  
 
-Link:  
-[https://www.coursera.org/specializations/python](https://www.coursera.org/specializations/python)
+Link:[https://www.coursera.org/specializations/python](https://www.coursera.org/specializations/python)
 
 The gentlest starting point if CS50P feels too steep, taught by one of the most beginner-friendly instructors online  
 如果 CS50P 感觉太陡，这是最温和的起点，由网上最对初学者友好的讲师之一授课
 
 **3. The Missing Semester of Your CS Education (MIT, free)**  
-**3. The Missing Semester of Your CS Education（MIT，免费）**
 
-Link:  
-[https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
+Link:[https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
 
 Shell, scripting, and the command-line fluency that university courses skip, and robotics runs on the command line  
 Shell、脚本，以及大学课程跳过的命令行熟练度，而机器人学就运行在命令行上
 
 **4. Learn Git Branching (free, interactive)**  
 
-Link:  
-[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+Link:[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
 The best visual tool for understanding branches and merges, which is the part of Git that confuses everyone  
 理解分支和合并最好的可视化工具，这正是 Git 让所有人困惑的部分
@@ -492,34 +475,29 @@ You will move to ESP32 within weeks, and nothing you learn here is wasted
 **Resources:**  
 
 **1. Paul McWhorter, Arduino Lessons (free)**  
-**1. Paul McWhorter，Arduino 课程（免费）**
 
-Link:  
-[https://toptechboy.com/arduino-lessons/](https://toptechboy.com/arduino-lessons/)
+Link:[https://toptechboy.com/arduino-lessons/](https://toptechboy.com/arduino-lessons/)
 
 Over 100 lessons taught slowly with homework at the end of each one, and the single best fit for a true beginner who has failed at Arduino before  
 超过 100 课，讲得慢，每课末尾有作业，对之前失败过的真初学者来说是最佳选择
 
 **2. Arduino Built-in Examples (official, free)**  
 
-Link:  
-[https://docs.arduino.cc/built-in-examples/](https://docs.arduino.cc/built-in-examples/)
+Link:[https://docs.arduino.cc/built-in-examples/](https://docs.arduino.cc/built-in-examples/)
 
 Runnable sketches already inside your IDE, which is the fastest route from "installed" to "something moved"  
 IDE 里已经有可运行的 sketch，是从“安装完成”到“有东西动起来”最快的路径
 
 **3. Arduino Official Docs, Learn section (official, free)**  
 
-Link:  
-[https://docs.arduino.cc/learn/](https://docs.arduino.cc/learn/)
+Link:[https://docs.arduino.cc/learn/](https://docs.arduino.cc/learn/)
 
 The authoritative reference for digital and analog IO, PWM, I2C, SPI and UART, best used as lookup rather than as a course  
 数字与模拟 IO、PWM、I2C、SPI 和 UART 的权威参考，最好当查阅手册而不是当课程用
 
 **4. Arduino Project Hub (free)**  
 
-Link:  
-[https://projecthub.arduino.cc/](https://projecthub.arduino.cc/)
+Link:[https://projecthub.arduino.cc/](https://projecthub.arduino.cc/)
 
 Over 6,000 projects with wiring and code, and this is where you go when tutorials end and you need something to build  
 超过 6000 个带接线和代码的项目，教程结束后你需要东西可做时就来这里
@@ -552,32 +530,28 @@ Buy an **ESP32-S3** as your main board, which is the most capable current varian
 
 **1. Random Nerd Tutorials, Getting Started with ESP32 (free)**  
 
-Link:  
-[https://randomnerdtutorials.com/getting-started-with-esp32/](https://randomnerdtutorials.com/getting-started-with-esp32/)
+Link:[https://randomnerdtutorials.com/getting-started-with-esp32/](https://randomnerdtutorials.com/getting-started-with-esp32/)
 
 The highest-signal free tutorial library anywhere for this chip, with a specific fix for nearly every beginner failure mode, and a 250+ project index alongside it  
 这个芯片上信号最高的免费教程库，几乎对每种初学者失败模式都有具体修复方法，旁边还有 250+ 项目索引
 
 **2. ESP-IDF Programming Guide (Espressif official, free)**  
 
-Link:  
-[https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)
+Link:[https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)
 
 The only source of truth once you outgrow the Arduino layer, covering the real toolchain, menuconfig and the build system  
 一旦你超出 Arduino 层，这是唯一真相来源，涵盖真正的工具链、menuconfig 和构建系统
 
 **3. Arduino ESP32 Core documentation (Espressif official, free)**  
 
-Link:  
-[https://docs.espressif.com/projects/arduino-esp32/en/latest/](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
+Link:[https://docs.espressif.com/projects/arduino-esp32/en/latest/](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
 
 Espressif's own docs for the Arduino layer, and the bridge that makes "Arduino versus ESP-IDF" a spectrum rather than a fork in the road  
 乐鑫自己对 Arduino 层的文档，也是让“Arduino 对 ESP-IDF”变成连续光谱而不是分叉路口的桥梁
 
 **4. DroneBot Workshop ESP32 hub (free)**  
 
-Link:  
-[https://dronebotworkshop.com/esp32-2/](https://dronebotworkshop.com/esp32-2/)
+Link:[https://dronebotworkshop.com/esp32-2/](https://dronebotworkshop.com/esp32-2/)
 
 Long-form, wiring-diagram-heavy tutorials with written articles mirroring every video, covering ESP-NOW, OTA updates and low-power modes  
 长篇、接线示意图丰富的教程，每段视频都有对应文字文章，涵盖 ESP-NOW、OTA 更新和低功耗模式
@@ -635,8 +609,7 @@ Four types matter, and you should understand all four by the end of the month
 **1. DroneBot Workshop, Controlling DC Motors with the L298N (free)**  
 **1. DroneBot Workshop，用 L298N 控制直流电机（免费）**
 
-Link:  
-[https://dronebotworkshop.com/dc-motors-l298n-h-bridge/](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
+Link:[https://dronebotworkshop.com/dc-motors-l298n-h-bridge/](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 
 DC motor theory, PWM, H-bridge internals and three complete sketches, ending in a joystick-driven robot car  
 直流电机理论、PWM、H 桥内部结构和三个完整 sketch，最终做出摇杆控制的小车
@@ -644,8 +617,7 @@ DC motor theory, PWM, H-bridge internals and three complete sketches, ending in 
 **2. SparkFun TB6612FNG Hookup Guide (free)**  
 **2. SparkFun TB6612FNG 接线指南（免费）**
 
-Link:  
-[https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all)
+Link: [https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all)
 
 Pinout, wiring and library for the driver you should actually use, with the reasoning for why  
 你真正应该用的驱动器的引脚定义、接线和库，以及为什么要用它的理由
@@ -653,16 +625,14 @@ Pinout, wiring and library for the driver you should actually use, with the reas
 **3. DroneBot Workshop, Stepper Motors with Arduino (free)**  
 **3. DroneBot Workshop，Arduino 步进电机（免费）**
 
-Link:  
-[https://dronebotworkshop.com/stepper-motors-with-arduino/](https://dronebotworkshop.com/stepper-motors-with-arduino/)
+Link: [https://dronebotworkshop.com/stepper-motors-with-arduino/](https://dronebotworkshop.com/stepper-motors-with-arduino/)
 
 Unipolar versus bipolar, microstepping, NEMA sizing, and four demos across three different drivers  
 单极 vs 双极、微步进、NEMA 尺寸，以及三种不同驱动器上的四个演示
 
 **4. SimpleFOC documentation (open source, free)**  
 
-Link:  
-[https://docs.simplefoc.com/](https://docs.simplefoc.com/)
+Link: [https://docs.simplefoc.com/](https://docs.simplefoc.com/)
 
 The clearest free explanation of field-oriented control anywhere, and the affordable on-ramp to brushless motors when you get there  
 任何地方对磁场定向控制最清晰的免费解释，也是你将来进入无刷电机时最平价的入口
@@ -698,16 +668,14 @@ The clearest free explanation of field-oriented control anywhere, and the afford
 
 **1. Adafruit BNO085 9-DoF IMU guide (free)**  
 
-Link:  
-[https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085/overview](https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085/overview)
+Link: [https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085/overview](https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085/overview)
 
 Covers an IMU that does sensor fusion on-chip and hands you a quaternion, which is the "buy your way out of the maths" option  
 介绍一个芯片内做传感器融合并直接给你四元数的 IMU，这是“花钱绕过数学”的选项
 
 **2. Kalman and Bayesian Filters in Python, Roger Labbe (free, CC-BY)**  
 
-Link:  
-[https://rlabbe.github.io/Kalman-and-Bayesian-Filters-in-Python/](https://rlabbe.github.io/Kalman-and-Bayesian-Filters-in-Python/)
+Link: [https://rlabbe.github.io/Kalman-and-Bayesian-Filters-in-Python/](https://rlabbe.github.io/Kalman-and-Bayesian-Filters-in-Python/)
 
 Jupyter notebooks with runnable code and solved exercises covering g-h, discrete Bayes, KF, EKF, UKF and particle filters, and it is the best free filtering education that exists  
 带可运行代码和已解习题的 Jupyter 笔记本，覆盖 g-h、离散贝叶斯、KF、EKF、UKF 和粒子滤波，是现有最好的免费滤波教育
@@ -715,8 +683,7 @@ Jupyter notebooks with runnable code and solved exercises covering g-h, discrete
 **3. MathWorks, Understanding Sensor Fusion and Tracking (free)**  
 **3. MathWorks，理解传感器融合与跟踪（免费）**
 
-Link:  
-[https://www.mathworks.com/videos/series/understanding-sensor-fusion-and-tracking.html](https://www.mathworks.com/videos/series/understanding-sensor-fusion-and-tracking.html)
+Link: [https://www.mathworks.com/videos/series/understanding-sensor-fusion-and-tracking.html](https://www.mathworks.com/videos/series/understanding-sensor-fusion-and-tracking.html)
 
 Six short parts from "what is sensor fusion" to fusing IMU and GPS for pose, and the right conceptual overview before you touch code  
 从“什么是传感器融合”到融合 IMU 和 GPS 求位姿的六个短部分，是你动手写代码前正确的概念概览
@@ -821,8 +788,7 @@ Decision framework:
 
 **1. Onshape Learning Center, Fundamentals: CAD (free with account)**  
 
-Link:  
-[https://learn.onshape.com/learning-paths/onshape-fundamentals-cad](https://learn.onshape.com/learning-paths/onshape-fundamentals-cad)
+Link: [https://learn.onshape.com/learning-paths/onshape-fundamentals-cad](https://learn.onshape.com/learning-paths/onshape-fundamentals-cad)
 
 The only free structured CAD curriculum that ends in a credential you can put on a CV, and it ships a dedicated robotics-competition track  
 唯一免费结构化的 CAD 课程，结束时有可放简历的证书，还专门有机器人竞赛轨道
@@ -830,24 +796,21 @@ The only free structured CAD curriculum that ends in a credential you can put on
 **2. Product Design Online, Learn Autodesk Fusion in 30 Days (free)**  
 **2. Product Design Online，30 天学会 Autodesk Fusion（免费）**
 
-Link:  
-[https://productdesignonline.com/learn-autodesk-fusion-360-in-30-days-official-course/](https://productdesignonline.com/learn-autodesk-fusion-360-in-30-days-official-course/)
+Link: [https://productdesignonline.com/learn-autodesk-fusion-360-in-30-days-official-course/](https://productdesignonline.com/learn-autodesk-fusion-360-in-30-days-official-course/)
 
 Thirty modelled objects in thirty days, which is the fastest route from never having opened CAD to confident parametric sketching  
 30 天做 30 个模型，是从从未打开过 CAD 到自信参数化草图的最快路径
 
 **3. MangoJelly Solutions FreeCAD tutorials (free)**  
 
-Link:  
-[https://www.youtube.com/@MangoJellySolutions](https://www.youtube.com/@MangoJellySolutions)
+Link: [https://www.youtube.com/@MangoJellySolutions](https://www.youtube.com/@MangoJellySolutions)
 
 The best FreeCAD teacher for makers, organised as short targeted lessons rather than one monolithic course  
 对创客最好的 FreeCAD 老师，以短而针对性强的课程组织，而不是一个大块课程
 
 **4. Protolabs Network, Design for 3D printing (free)**  
 
-Link:  
-[https://www.hubs.com/knowledge-base/design-for-3d-printing/](https://www.hubs.com/knowledge-base/design-for-3d-printing/)
+Link: [https://www.hubs.com/knowledge-base/design-for-3d-printing/](https://www.hubs.com/knowledge-base/design-for-3d-printing/)
 
 The design-for-manufacture half of CAD: wall thickness, orientation, tolerances, supports, snap-fits, and when to use STL versus 3MF versus STEP  
 CAD 中面向制造的一半：壁厚、方向、公差、支撑、卡扣，以及何时用 STL、3MF 还是 STEP
@@ -908,24 +871,21 @@ Verified printer prices, September 2026:
 
 **1. OrcaSlicer Calibration wiki (free)**  
 
-Link:  
-https://github.com/OrcaSlicer/OrcaSlicer/wiki/Calibration
+Link: https://github.com/OrcaSlicer/OrcaSlicer/wiki/Calibration
 
 Temperature, flow, pressure advance, retraction and tolerance calibration in a recommended running order, and it is the most useful slicing document for anyone who wants parts that fit  
 温度、流量、压力推进、回抽和公差校准，按推荐顺序执行，是任何想做出能装上零件的人最有用的切片文档
 
 **2. Teaching Tech 3D Printer Calibration (free, interactive)**  
 
-Link:  
-[https://teachingtechyt.github.io/calibration.html](https://teachingtechyt.github.io/calibration.html)
+Link: [https://teachingtechyt.github.io/calibration.html](https://teachingtechyt.github.io/calibration.html)
 
 A printer-agnostic interactive walkthrough that takes you through every calibration in sequence  
 与打印机无关的交互式走查，按顺序带你完成每一个校准
 
 **3. CNC Kitchen (free)**  
 
-Link:  
-[https://www.youtube.com/@CNCKitchen](https://www.youtube.com/@CNCKitchen)
+Link: [https://www.youtube.com/@CNCKitchen](https://www.youtube.com/@CNCKitchen)
 
 Instrumented, repeatable strength tests on infill, walls, threaded inserts and orientation, which is where print orientation stops being folklore and starts being data  
 对填充、壁、螺纹嵌件和方向进行仪器化、可重复的强度测试，让打印方向从民间传说变成数据
@@ -933,8 +893,7 @@ Instrumented, repeatable strength tests on infill, walls, threaded inserts and o
 **4. Clearance and Tolerance 3D Printer Gauge (free STL)**  
 **4. 间隙与公差 3D 打印机量规（免费 STL）**
 
-Link:  
-[https://www.printables.com/model/57067-clearance-and-tolerance-3d-printer-gauge](https://www.printables.com/model/57067-clearance-and-tolerance-3d-printer-gauge)
+Link: [https://www.printables.com/model/57067-clearance-and-tolerance-3d-printer-gauge](https://www.printables.com/model/57067-clearance-and-tolerance-3d-printer-gauge)
 
 Print this once and you know your machine's real clearance for press fits and sliding fits, which every bracket and bearing seat you design afterwards depends on  
 打印一次，你就知道机器对过盈配合和滑动配合的真实间隙，之后你设计的每一个支架和轴承座都依赖它
@@ -1101,48 +1060,42 @@ As of September 2026 the picture is:
 
 **1. Official ROS 2 Tutorials (free)**  
 
-Link:  
-[https://docs.ros.org/en/jazzy/Tutorials.html](https://docs.ros.org/en/jazzy/Tutorials.html)
+Link: [https://docs.ros.org/en/jazzy/Tutorials.html](https://docs.ros.org/en/jazzy/Tutorials.html)
 
 The canonical reference, structured exactly around nodes, topics, services, actions, parameters, launch files, tf2 and URDF. It is reference-grade rather than pedagogy, so pair it with video  
 权威参考，完全围绕节点、话题、服务、动作、参数、启动文件、tf2 和 URDF 结构化。它是参考级而非教学级，所以要搭配视频
 
 **2. The Construct (free tier, paid from €39.97/month)**  
 
-Link:  
-[https://www.theconstruct.ai/](https://www.theconstruct.ai/)
+Link: [https://www.theconstruct.ai/](https://www.theconstruct.ai/)
 
 Everything runs in a browser-based ROS environment with simulated robots, which removes the single biggest friction point for beginners: no Ubuntu dual-boot, no install weekend, no GPU. The free tier includes three complete courses  
 一切都在基于浏览器的 ROS 环境中运行，带仿真机器人，消除了初学者最大的摩擦点：无需 Ubuntu 双系统、无需安装周末、无需 GPU。免费层包含三门完整课程
 
 **3. Edouard Renard, ROS 2 for Beginners, Level 1 (Udemy, roughly $10 to $20 on sale)**  
 
-Link:  
-[https://www.udemy.com/course/ros2-for-beginners/](https://www.udemy.com/course/ros2-for-beginners/)
+Link: [https://www.udemy.com/course/ros2-for-beginners/](https://www.udemy.com/course/ros2-for-beginners/)
 
 Thirteen hours in both Python and C++ covering nodes, packages, topics, services, custom interfaces, parameters and launch files. Never pay list price, Udemy discounts almost permanently  
 十三小时，Python 和 C++ 都有，覆盖节点、包、话题、服务、自定义接口、参数和启动文件。永远不要付标价，Udemy 几乎一直打折
 
 **4. Articulated Robotics, Josh Newans (free)**  
 
-Link:  
-[https://articulatedrobotics.xyz/tutorials/](https://articulatedrobotics.xyz/tutorials/)
+Link: [https://articulatedrobotics.xyz/tutorials/](https://articulatedrobotics.xyz/tutorials/)
 
 The best free end-to-end narrative anywhere: design a robot, write the URDF, simulate it, add ros2_control, put it on a Raspberry Pi with a lidar, then SLAM and navigate. Uniquely good on ros2_control, which almost every other resource fumbles  
 任何地方最好的免费端到端叙述：设计机器人、写 URDF、仿真、加 ros2_control、放到带激光雷达的树莓派上，然后 SLAM 和导航。在 ros2_control 上特别好，其他资源几乎都搞砸
 
 **5. MOGI-ROS, a full university course (free, Apache 2.0)**  
 
-Link:  
-https://github.com/orgs/MOGI-ROS/repositories
+Link: https://github.com/orgs/MOGI-ROS/repositories
 
 A real semester-length syllabus on ROS 2 Jazzy with Gazebo Harmonic, running from pub/sub through URDF, sensors, navigation and MoveIt 2 arms, with working code for every week  
 真正的学期长度大纲，ROS 2 Jazzy + Gazebo Harmonic，从 pub/sub 到 URDF、传感器、导航和 MoveIt 2 机械臂，每周都有可运行代码
 
 **6. Automatic Addison (free)**  
 
-Link:  
-[https://automaticaddison.com/tutorials/](https://automaticaddison.com/tutorials/)
+Link: [https://automaticaddison.com/tutorials/](https://automaticaddison.com/tutorials/)
 
 Recipe-style guides organised by distro, and notable for already carrying Lyrical tracks alongside Jazzy. This is where you go for "how do I write an action in Jazzy" rather than a full course  
 按发行版组织的菜谱式指南，值得注意的是已经同时有 Lyrical 和 Jazzy 轨道。你来这里找“如何在 Jazzy 写 action”而不是完整课程
@@ -1175,24 +1128,21 @@ Honest gap worth naming: **DDS and QoS settings are covered badly by every resou
 
 **1. Articulated Robotics, Coordinate Transforms for Robotics (free)**  
 
-Link:  
-[https://articulatedrobotics.xyz/category/coordinate-transforms-for-robotics](https://articulatedrobotics.xyz/category/coordinate-transforms-for-robotics)
+Link: [https://articulatedrobotics.xyz/category/coordinate-transforms-for-robotics](https://articulatedrobotics.xyz/category/coordinate-transforms-for-robotics)
 
 A dedicated series on frames and transforms, which is the concept that blocks most people's understanding of URDF  
 专门讲坐标系和变换的系列，这是阻碍大多数人理解 URDF 的概念
 
 **2. Edouard Renard, Level 2: TF, URDF, RViz, Gazebo (Udemy, roughly $10 to $20 on sale)**  
 
-Link:  
-[https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/](https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/)
+Link: [https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/](https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/)
 
 The single best URDF resource, covering xacro macros, robot_state_publisher, RViz configuration and Gazebo plugins, ending in a mobile base with an arm on it  
 最好的单一 URDF 资源，覆盖 xacro 宏、robot_state_publisher、RViz 配置和 Gazebo 插件，最终做出带机械臂的移动底盘
 
 **3. Official URDF tutorial with robot_state_publisher (free)**  
 
-Link:  
-[https://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Using-URDF-with-Robot-State-Publisher-cpp.html](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Using-URDF-with-Robot-State-Publisher-cpp.html)
+Link: [https://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Using-URDF-with-Robot-State-Publisher-cpp.html](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Using-URDF-with-Robot-State-Publisher-cpp.html)
 
 The canonical walkthrough, available in both C++ and Python variants  
 权威走查，有 C++ 和 Python 两个版本
@@ -1230,24 +1180,21 @@ Current releases are named alphabetically: Fortress, Garden, Harmonic, Ionic, Je
 
 **1. Gazebo documentation and tutorials (free)**  
 
-Link:  
-[https://gazebosim.org/docs/latest/getstarted/](https://gazebosim.org/docs/latest/getstarted/)
+Link: [https://gazebosim.org/docs/latest/getstarted/](https://gazebosim.org/docs/latest/getstarted/)
 
 Building your own robot, moving it, SDF worlds, sensors, and spawning a URDF  
 构建自己的机器人、移动它、SDF 世界、传感器，以及生成 URDF
 
 **2. MuJoCo (free, open source)**  
 
-Link:  
-[https://mujoco.readthedocs.io/en/stable/overview.html](https://mujoco.readthedocs.io/en/stable/overview.html)
+Link: [https://mujoco.readthedocs.io/en/stable/overview.html](https://mujoco.readthedocs.io/en/stable/overview.html)
 
 The fastest and most accurate contact dynamics available, CPU-first so it needs no GPU, and it is the research standard for locomotion and manipulation learning  
 可用最快最准确的接触动力学，以 CPU 优先所以不需要 GPU，是运动和操作学习的研究标准
 
 **3. NVIDIA Isaac Sim (free download)**  
 
-Link:  
-[https://docs.isaacsim.omniverse.nvidia.com/6.0.0/installation/requirements.html](https://docs.isaacsim.omniverse.nvidia.com/6.0.0/installation/requirements.html)
+Link: [https://docs.isaacsim.omniverse.nvidia.com/6.0.0/installation/requirements.html](https://docs.isaacsim.omniverse.nvidia.com/6.0.0/installation/requirements.html)
 
 Photoreal simulation and synthetic data generation, and read that requirements link before getting excited: the **minimum is an RTX 4080 with 16GB VRAM**, and data-centre cards without RT cores such as the A100 and H100 are not supported at all  
 照片级仿真和合成数据生成，兴奋前先读那个需求**最低是带 16GB VRAM 的 RTX 4080**，没有 RT 核心的数据中心卡如 A100 和 H100 完全不支持
@@ -1278,16 +1225,14 @@ This is the topic most self-taught candidates have never touched, which makes it
 
 **1. ros2_control documentation (free)**  
 
-Link:  
-[https://control.ros.org/rolling/index.html](https://control.ros.org/rolling/index.html)
+Link: [https://control.ros.org/rolling/index.html](https://control.ros.org/rolling/index.html)
 
 Where URDF meets actuation: hardware interfaces, controller manager, and the <ros2_control> tags that go in your xacro  
 URDF 与执行相遇的地方：硬件接口、控制器管理器，以及放进 xacro 的 <ros2_control> 标签
 
 **2. Articulated Robotics, ros2_control on real hardware (free)**  
 
-Link:  
-[https://articulatedrobotics.xyz/tutorials/mobile-robot/applications/ros2_control-real/](https://articulatedrobotics.xyz/tutorials/mobile-robot/applications/ros2_control-real/)
+Link: [https://articulatedrobotics.xyz/tutorials/mobile-robot/applications/ros2_control-real/](https://articulatedrobotics.xyz/tutorials/mobile-robot/applications/ros2_control-real/)
 
 The only resource that walks the simulation-to-real-hardware transition properly  
 唯一正确走仿真到真实硬件过渡的资源
@@ -1301,32 +1246,28 @@ The only resource that walks the simulation-to-real-hardware transition properly
 
 **1. Nav2 Getting Started (free)**  
 
-Link:  
-[https://docs.nav2.org/rolling/getting_started/index.html](https://docs.nav2.org/rolling/getting_started/index.html)
+Link: [https://docs.nav2.org/rolling/getting_started/index.html](https://docs.nav2.org/rolling/getting_started/index.html)
 
 Launches Nav2 in simulation in under five minutes, with a pre-configured VS Code dev container that removes all install pain  
 五分钟内在仿真中启动 Nav2，带预配置的 VS Code 开发容器，消除所有安装痛苦
 
 **2. Nav2 Tutorials (free)**  
 
-Link:  
-[https://docs.nav2.org/rolling/tutorials/](https://docs.nav2.org/rolling/tutorials/)
+Link: [https://docs.nav2.org/rolling/tutorials/](https://docs.nav2.org/rolling/tutorials/)
 
 Covers SLAM, keepout zones, speed limits, collision monitoring, docking, GPS navigation, and writing your own planner, controller or behaviour-tree node  
 覆盖 SLAM、禁区、速度限制、碰撞监控、对接、GPS 导航，以及写自己的规划器、控制器或行为树节点
 
 **3. SLAM Toolbox (free, open source)**  
 
-Link:  
-https://github.com/SteveMacenski/slam_toolbox
+Link: https://github.com/SteveMacenski/slam_toolbox
 
 The currently supported ROS 2 SLAM library, with synchronous, asynchronous, lifelong and localization-only modes, and multi-robot support  
 当前支持的 ROS 2 SLAM 库，有同步、异步、终身和仅定位模式，以及多机器人支持
 
 **4. RTAB-Map for ROS 2 (free, open source)**  
 
-Link:  
-https://github.com/introlab/rtabmap_ros
+Link: https://github.com/introlab/rtabmap_ros
 
 Appearance-based RGB-D and stereo SLAM with loop closure, for when you have a depth camera rather than a lidar, or want a 3D map  
 基于外观的 RGB-D 和立体 SLAM，带闭环，适合你有深度相机而不是激光雷达，或想要 3D 地图时
@@ -1404,8 +1345,7 @@ You already tuned a PID controller by feel in month two. Now learn why it worked
 **1. Understanding PID Control, MATLAB Tech Talks with Brian Douglas (free)**  
 **1. Understanding PID Control，Brian Douglas 的 MATLAB Tech Talks（免费）**
 
-Link:  
-[https://www.mathworks.com/videos/series/understanding-pid-control.html](https://www.mathworks.com/videos/series/understanding-pid-control.html)
+Link: [https://www.mathworks.com/videos/series/understanding-pid-control.html](https://www.mathworks.com/videos/series/understanding-pid-control.html)
 
 Seven parts covering what PID is, integrator windup, derivative filtering, tuning, and manual versus automatic tuning. The fastest route from zero to a controller that works this week  
 七部分，覆盖 PID 是什么、积分饱和、微分滤波、调参，以及手动 vs 自动调参。从零到本周能工作的控制器最快路径
@@ -1413,8 +1353,7 @@ Seven parts covering what PID is, integrator windup, derivative filtering, tunin
 **2. Brian Douglas, Control System Lectures (free)**  
 **2. Brian Douglas，控制系统讲座（免费）**
 
-Link:  
-[https://www.youtube.com/@BrianBDouglas/playlists](https://www.youtube.com/@BrianBDouglas/playlists)
+Link: [https://www.youtube.com/@BrianBDouglas/playlists](https://www.youtube.com/@BrianBDouglas/playlists)
 
 Intuition-first explanations across PID, state space, robust control and drone control, and the best fit for someone with no formal controls course behind them  
 以直觉优先的解释，覆盖 PID、状态空间、鲁棒控制和无人机控制，最适合没有正式控制课程背景的人
@@ -1422,24 +1361,21 @@ Intuition-first explanations across PID, state space, robust control and drone c
 **3. The Fundamentals of Control Theory, Brian Douglas (free, Creative Commons)**  
 **3. The Fundamentals of Control Theory，Brian Douglas（免费，知识共享）**
 
-Link:  
-[https://engineeringmedia.com/books](https://engineeringmedia.com/books)
+Link: [https://engineeringmedia.com/books](https://engineeringmedia.com/books)
 
 The written companion to the videos, and a coherent narrative rather than scattered lessons  
 视频的文字伴侣，是连贯叙述而不是零散课程
 
 **4. Control Bootcamp, Steve Brunton (free)**  
 
-Link:  
-[https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+Link: [https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
 
 Thirty-nine videos and the right entry point to state space, controllability, observability, LQR and the Kalman filter  
 三十九个视频，进入状态空间、可控性、可观性、LQR 和卡尔曼滤波的正确入口
 
 **5. Feedback Systems, Åström and Murray (free PDF)**  
 
-Link:  
-[https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers](https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers)
+Link: [https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers](https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers)
 
 The rigorous textbook, released free by Princeton University Press, for when you want the proper version without paying  
 严谨教材，普林斯顿大学出版社免费发布，想要正式版本又不想付钱时用
@@ -1468,16 +1404,14 @@ The rigorous textbook, released free by Princeton University Press, for when you
 **1. Understanding Model Predictive Control, MATLAB Tech Talks (free)**  
 **1. Understanding Model Predictive Control，MATLAB Tech Talks（免费）**
 
-Link:  
-[https://www.mathworks.com/videos/series/understanding-model-predictive-control.html](https://www.mathworks.com/videos/series/understanding-model-predictive-control.html)
+Link: [https://www.mathworks.com/videos/series/understanding-model-predictive-control.html](https://www.mathworks.com/videos/series/understanding-model-predictive-control.html)
 
 Seven parts from why to use MPC through adaptive and nonlinear variants, and how to make it run fast enough to be real  
 七部分，从为什么用 MPC 到自适应和非线性变体，以及如何让它跑得足够快以成为现实
 
 **2. Underactuated Robotics, Russ Tedrake, MIT (free)**  
 
-Link:  
-[https://underactuated.csail.mit.edu/index.html](https://underactuated.csail.mit.edu/index.html)
+Link: [https://underactuated.csail.mit.edu/index.html](https://underactuated.csail.mit.edu/index.html)
 
 This is where control theory becomes robotics: pendulums, cart-poles, walking, running and humanoids, with dynamic programming, LQR, Lyapunov analysis and trajectory optimisation. Free notes, free PDF and lecture videos  
 控制理论变成机器人学的地方：摆、小车倒立摆、走路、跑步和人形，带动态规划、LQR、李雅普诺夫分析和轨迹优化。免费笔记、免费 PDF 和讲座视频
@@ -1503,32 +1437,28 @@ This is where control theory becomes robotics: pendulums, cart-poles, walking, r
 
 **1. Modern Robotics, Kevin Lynch, Northwestern (free book, code and videos)**  
 
-Link:  
-[http://hades.mech.northwestern.edu/index.php/Modern_Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+Link: [http://hades.mech.northwestern.edu/index.php/Modern_Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 
 The free preprint of the standard textbook, plus companion libraries in Python, MATLAB and Mathematica and full video lectures. It uses screw theory and product-of-exponentials rather than DH parameters, which is cleaner and now the industry norm  
 标准教材的免费预印本，加上 Python、MATLAB 和 Mathematica 的配套库以及完整讲座视频。它用螺旋理论和指数积而不是 DH 参数，更干净，现在是行业规范
 
 **2. Modern Robotics Specialization (Coursera, free audit available)**  
 
-Link:  
-[https://www.coursera.org/specializations/modernrobotics](https://www.coursera.org/specializations/modernrobotics)
+Link: [https://www.coursera.org/specializations/modernrobotics](https://www.coursera.org/specializations/modernrobotics)
 
 The same material as a structured six-course sequence with assessment, if you need deadlines to finish things  
 同样材料，结构化为六门课序列带评估，如果你需要截止日期才能完成事情
 
 **3. Robotics Toolbox for Python, Peter Corke (free, MIT)**  
 
-Link:  
-https://github.com/petercorke/robotics-toolbox-python
+Link: https://github.com/petercorke/robotics-toolbox-python
 
 Forward kinematics, Jacobians, numerical IK, trajectory generation and fifty-plus real robot models including Franka and UR, so you learn by running code against real arms  
 正运动学、雅可比、数值 IK、轨迹生成以及五十多个真实机器人模型包括 Franka 和 UR，所以你通过针对真实手臂跑代码来学习
 
 **4. QUT Robot Academy, Peter Corke (free)**  
 
-Link:  
-[https://robotacademy.net.au](https://robotacademy.net.au/)
+Link: [https://robotacademy.net.au](https://robotacademy.net.au/)
 
 Over 200 video lessons of under ten minutes each, labelled by prerequisite level, and the best source of short atomic explanations of DH parameters, Jacobians and pose representation  
 超过 200 个每段不到十分钟的视频课，按先修水平标注，是 DH 参数、雅可比和位姿表示短小原子解释的最佳来源
@@ -1556,32 +1486,28 @@ Over 200 video lessons of under ten minutes each, labelled by prerequisite level
 
 **1. FREE OpenCV Bootcamp (OpenCV.org official, free)**  
 
-Link:  
-[https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/about](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/about)
+Link: [https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/about](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/about)
 
 The official two-to-three hour course from OpenCV themselves, covering image manipulation, filtering, edge detection, tracking and the DNN module. Start here rather than a paid course  
 OpenCV 自己官方两到三小时课程，覆盖图像操作、滤波、边缘检测、跟踪和 DNN 模块。从这里开始而不是付费课程
 
 **2. OpenCV Camera Calibration tutorial (official docs, free)**  
 
-Link:  
-[https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
+Link: [https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
 
 The canonical walkthrough with full Python code, from chessboard corners to undistortion to re-projection error. Every robotics engineer must be able to do this from memory  
 权威走查，带完整 Python 代码，从棋盘角点到去畸变到重投影误差。每个机器人工程师都必须能从记忆中做这件事
 
 **3. Cyrill Stachniss lectures, University of Bonn (free)**  
 
-Link:  
-[https://www.ipb.uni-bonn.de/online-training-robotics/](https://www.ipb.uni-bonn.de/online-training-robotics/)
+Link: [https://www.ipb.uni-bonn.de/online-training-robotics/](https://www.ipb.uni-bonn.de/online-training-robotics/)
 
 Full university lecture recordings on mobile sensing, photogrammetry and SLAM, and the best free source on the geometric side: projective geometry, bundle adjustment, EKF and graph SLAM  
 移动传感、摄影测量和 SLAM 的完整大学讲座录像，几何方面最好的免费来源：射影几何、光束法平差、EKF 和图 SLAM
 
 **4. Open3D point cloud tutorials (free)**  
 
-Link:  
-[https://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html](https://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html)
+Link: [https://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html](https://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html)
 
 Voxel downsampling, normal estimation, ICP registration, plane segmentation and clustering, with far less friction than PCL for anyone already in Python  
 体素下采样、法线估计、ICP 配准、平面分割和聚类，对已经在用 Python 的人来说摩擦远小于 PCL
@@ -1609,32 +1535,28 @@ Voxel downsampling, normal estimation, ICP registration, plane segmentation and 
 **1. MoveIt 2 Getting Started (free, open source)**  
 **1. MoveIt 2 入门（免费，开源）**
 
-Link:  
-[https://moveit.picknik.ai/main/doc/tutorials/getting_started/getting_started.html](https://moveit.picknik.ai/main/doc/tutorials/getting_started/getting_started.html)
+Link: [https://moveit.picknik.ai/main/doc/tutorials/getting_started/getting_started.html](https://moveit.picknik.ai/main/doc/tutorials/getting_started/getting_started.html)
 
 The official entry point, and the docs recommend Jazzy on Ubuntu 24.04 for the smoothest experience  
 官方入口，文档推荐 Ubuntu 24.04 上的 Jazzy 以获得最流畅体验
 
 **2. Pick and Place with MoveIt Task Constructor (free)**  
 
-Link:  
-[https://moveit.picknik.ai/main/doc/tutorials/pick_and_place_with_moveit_task_constructor/pick_and_place_with_moveit_task_constructor.html](https://moveit.picknik.ai/main/doc/tutorials/pick_and_place_with_moveit_task_constructor/pick_and_place_with_moveit_task_constructor.html)
+Link: [https://moveit.picknik.ai/main/doc/tutorials/pick_and_place_with_moveit_task_constructor/pick_and_place_with_moveit_task_constructor.html](https://moveit.picknik.ai/main/doc/tutorials/pick_and_place_with_moveit_task_constructor/pick_and_place_with_moveit_task_constructor.html)
 
 The most useful manipulation tutorial in ROS 2, teaching how to decompose a task into stages and implement grasp generation, IK and collision management  
 ROS 2 中最有用的操作教程，教你如何把任务分解成阶段并实现抓取生成、IK 和碰撞管理
 
 **3. Robotic Manipulation, Russ Tedrake, MIT (free)**  
 
-Link:  
-[https://manipulation.csail.mit.edu/](https://manipulation.csail.mit.edu/)
+Link: [https://manipulation.csail.mit.edu/](https://manipulation.csail.mit.edu/)
 
 Twelve chapters connecting hardware, kinematics, perception, grasping, planning and control into one coherent stack, and it now teaches model-based and learned approaches together, which is exactly how the industry now works  
 十二章把硬件、运动学、感知、抓取、规划和控制连成一个连贯栈，现在同时教基于模型和基于学习的方法，这正是行业现在的工作方式
 
 **4. Contact-GraspNet, NVIDIA (free code)**  
 
-Link:  
-https://github.com/NVlabs/contact_graspnet
+Link: https://github.com/NVlabs/contact_graspnet
 
 Six-DOF grasp generation in cluttered scenes from a depth map, and the standard baseline for learned grasping  
 从深度图在杂乱场景中生成六自由度抓取，是学习抓取的标准基线
@@ -1690,32 +1612,28 @@ The workflow is: teleoperate, record, train, deploy. You drive the robot by hand
 
 **1. LeRobot documentation (free)**  
 
-Link:  
-[https://huggingface.co/docs/lerobot/index](https://huggingface.co/docs/lerobot/index)
+Link: [https://huggingface.co/docs/lerobot/index](https://huggingface.co/docs/lerobot/index)
 
 The main docs, covering the full pipeline and every supported robot  
 主文档，覆盖完整管道和每一个支持的机器人
 
 **2. LeRobot repository (free, Apache 2.0)**  
 
-Link:  
-https://github.com/huggingface/lerobot
+Link: https://github.com/huggingface/lerobot
 
 Over 26,000 stars, and the place to read how the policies are actually implemented  
 超过 26000 星，阅读策略实际如何实现的地方
 
 **3. Hugging Face Robotics Course (free, no hardware required)**  
 
-Link:  
-[https://huggingface.co/learn/robotics-course/unit0/1](https://huggingface.co/learn/robotics-course/unit0/1)
+Link: [https://huggingface.co/learn/robotics-course/unit0/1](https://huggingface.co/learn/robotics-course/unit0/1)
 
 Runs entirely on simulated environments and public datasets, so you can do the whole thing before buying anything. Roughly 30 to 45 minutes per unit  
 完全在仿真环境和公共数据集上运行，所以你可以在买任何东西之前做完整件事。每单元大约 30 到 45 分钟
 
 **4. SO-101 setup guide (free)**  
 
-Link:  
-[https://huggingface.co/docs/lerobot/so101](https://huggingface.co/docs/lerobot/so101)
+Link: [https://huggingface.co/docs/lerobot/so101](https://huggingface.co/docs/lerobot/so101)
 
 The exact port-finding, motor-setup, calibration and recording commands for the arm you built in month three  
 你在第 3 个月建的机械臂的精确端口查找、电机设置、校准和记录命令
@@ -1762,24 +1680,21 @@ These are the foundation models of robotics, and knowing which ones you can actu
 
 **1. MuJoCo Playground (free, Apache 2.0)**  
 
-Link:  
-https://github.com/google-deepmind/mujoco_playground
+Link: https://github.com/google-deepmind/mujoco_playground
 
 GPU-accelerated environments for locomotion, manipulation and vision tasks with four Colab tutorials, and far easier to get running than the alternatives. Start here  
 用于运动、操作和视觉任务的 GPU 加速环境，带四个 Colab 教程，比替代品容易跑得多。从这里开始
 
 **2. NVIDIA Isaac Lab (free, BSD-3)**  
 
-Link:  
-https://github.com/isaac-sim/IsaacLab
+Link: https://github.com/isaac-sim/IsaacLab
 
 Sixteen robot models and thirty-plus pre-built training environments, integrating RSL RL, skrl, RL Games and Stable Baselines. The industry standard for legged and humanoid sim-to-real, and it needs the RTX hardware from month four  
 十六个机器人模型和三十多个预构建训练环境，集成 RSL RL、skrl、RL Games 和 Stable Baselines。腿式和人形仿真到现实的行业标准，需要第 4 个月的 RTX 硬件
 
 **3. CS 285, Deep Reinforcement Learning, Sergey Levine, UC Berkeley (free)**  
 
-Link:  
-[https://rail.eecs.berkeley.edu/deeprlcourse](https://rail.eecs.berkeley.edu/deeprlcourse)
+Link: [https://rail.eecs.berkeley.edu/deeprlcourse](https://rail.eecs.berkeley.edu/deeprlcourse)
 
 The best RL course available, and Levine is a robotics researcher so the framing is robotics-native throughout, covering imitation learning, policy gradients, actor-critic, model-based and offline RL  
 可用最好的 RL 课程，Levine 是机器人研究员，所以整个框架都是机器人原生的，覆盖模仿学习、策略梯度、actor-critic、基于模型和离线 RL

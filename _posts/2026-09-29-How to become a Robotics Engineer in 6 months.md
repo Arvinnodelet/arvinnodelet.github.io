@@ -174,8 +174,6 @@ That is why this roadmap is built around making things work rather than studying
 Keep whatever is paying you while you do it, treat this as two or three hours a day, and the six months are designed to be run that way  
 一边保留现有收入，一边每天投入两三个小时，六个月就是按这个节奏设计的
 
-⏩---------------------------------------------------------------------⏪
-
 ## Month 1: Electronics, the bench, and the tools you build everything with  
 ## 第 1 个月：电子学、工作台，以及你用来构建一切的工具
 
@@ -468,8 +466,6 @@ By the end of this month you should be able to:
   写一个 Python 脚本，从终端运行并推送到 GitHub
 - Explain out loud why a motor stalling can reset your microcontroller  
   能口头解释为什么电机堵转会让微控制器复位
-
-⏩---------------------------------------------------------------------⏪
 
 ## Month 2: Microcontrollers, motors and sensors, and your first moving robot  
 ## 第 2 个月：微控制器、电机和传感器，以及你的第一个会动的机器人
@@ -790,8 +786,6 @@ By the end of this month you should be able to:
 - Show two working robots on GitHub with wiring, code and a written account of what broke  
   在 GitHub 上展示两个能工作的机器人，带接线、代码和“什么坏了”的书面记录
 
-⏩---------------------------------------------------------------------⏪
-
 ## Month 3: Mechanical design, CAD and manufacturing your own parts  
 ## 第 3 个月：机械设计、CAD 以及制造自己的零件
 
@@ -1057,8 +1051,6 @@ By the end of this month you should be able to:
   解释什么是间隙，并在你做的东西上演示它
 - Show a working robot arm you assembled, calibrated and modified with your own parts  
   展示一个你组装、校准并用自己零件改装过的能工作的机械臂
-
-⏩---------------------------------------------------------------------⏪
 
 ## Month 4: ROS 2, simulation, and building robots the way companies do  
 ## 第 4 个月：ROS 2、仿真，以及像公司一样构建机器人
@@ -1384,8 +1376,6 @@ By the end of this month you should be able to:
 - Diagnose a broken TF tree, which is the most common failure in the entire stack  
   诊断坏掉的 TF 树，这是整个栈中最常见的失败
 
-⏩---------------------------------------------------------------------⏪
-
 ## Month 5: The maths that makes robots actually work  
 ## 第 5 个月：让机器人真正工作的数学
 
@@ -1670,8 +1660,6 @@ By the end of this month you should be able to:
   标定相机并把像素变成 3D 位置
 - Plan and execute a collision-free pick and place in MoveIt 2  
   在 MoveIt 2 中规划并执行无碰撞拾取放置
-
-⏩---------------------------------------------------------------------⏪
 
 ## Month 6: Robot learning, specialisation, and becoming hireable  
 ## 第 6 个月：机器人学习、专精，以及变得可被雇佣

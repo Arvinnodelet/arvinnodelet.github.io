@@ -92,9 +92,7 @@ So I created my personal YouTube channel where I am going to record videos about
 If you really love my content on X and want to become Advanced in these two disciplines FOR FREE, then  
 如果你真的喜欢我在 X 上的内容，并想**免费**在这两门学科上进阶，那么
 
-Follow me:  
-
-[https://www.youtube.com/@deronin_23](https://www.youtube.com/@deronin_23)
+Follow me:[https://www.youtube.com/@deronin_23](https://www.youtube.com/@deronin_23)
 
 It would mean a lot to me. I want this to be genuinely useful, and to keep making more of the content that gets so much positive feedback on X ❤️  
 这对我意义重大。我希望这些内容真正有用，并继续制作更多在 X 上获得大量正面反馈的内容 ❤️
@@ -128,7 +126,7 @@ AI engineering is crowded and robotics is empty
 AI 工程拥挤，机器人学空旷
 
 ## What a robotics engineer actually does  
-## 机器人工程师实际在做什么
+**机器人工程师实际在做什么**
 
 A lot of people hear "robotics engineer" and imagine someone designing a humanoid from scratch  
 很多人听到“机器人工程师”就想象有人从零设计人形机器人
@@ -175,7 +173,7 @@ Keep whatever is paying you while you do it, treat this as two or three hours a 
 一边保留现有收入，一边每天投入两三个小时，六个月就是按这个节奏设计的
 
 ## Month 1: Electronics, the bench, and the tools you build everything with  
-## 第 1 个月：电子学、工作台，以及你用来构建一切的工具
+**第 1 个月：电子学、工作台，以及你用来构建一切的工具**
 
 Your goal this month: be able to read a schematic, build a circuit that works, and find the fault when it does not  
 本月目标：能读懂原理图，搭建能工作的电路，并在出故障时找到问题
@@ -187,10 +185,9 @@ Robotics is the one software field where the bug is sometimes a loose wire, a sa
 机器人学是唯一一个软件领域，bug 有时可能是松动的线、电压下降的电池，或者电机电流超过稳压器能力，如果你不理解底层电气层，就永远无法诊断这些问题
 
 ### What to learn  
-### 要学什么
 
 ### 1. Electronics fundamentals  
-### 1. 电子学基础
+**1. 电子学基础**
 
 You need Ohm's law, voltage dividers, what a capacitor does, how a transistor switches, and how to read a schematic  
 你需要欧姆定律、分压器、电容的作用、晶体管如何开关，以及如何读原理图
@@ -199,7 +196,6 @@ You do not need to design an op-amp from first principles
 你不需要从第一性原理设计运放
 
 **How to learn it:**  
-**如何学习：**
 
 Start in a simulator before you spend a single dollar, because you can wire things wrong at zero cost and actually see why they failed  
 先从仿真器开始，一分钱都不用花，因为你可以零成本接错线，并真正看到为什么失败
@@ -263,7 +259,7 @@ The best single paper book for someone who has never held a multimeter, built ar
 **实践任务：** 在 Falstad 中搭建分压器，用手算出输出电压，再在仿真器中确认。然后搭建一个晶体管开关，用逻辑电平输入点亮 LED，因为这正是后续让 3.3V 微控制器引脚控制需要更大电流器件的电路
 
 ### 2. The bench, the tools, and what everything costs  
-### 2. 工作台、工具以及所有东西的成本
+**2. 工作台、工具以及所有东西的成本**
 
 This is the section that decides whether you actually start, so here is the honest budget  
 这是决定你是否真正开始的部分，所以给出诚实的预算
@@ -321,7 +317,6 @@ A real temperature-controlled iron for the price of a toy one, USB-C powered, ta
 真正的温控烙铁，价格却只相当于玩具级，USB-C 供电，兼容标准 TS100 和 Hakko T12 烙铁头
 
 **Where to order, and the honest guidance:**  
-**订购渠道，以及诚实建议：**
 
 - **AliExpress** is cheapest by a wide margin, often 3 to 10 times less, but shipping runs 2 to 6 weeks and there is no support when a board arrives dead  
   **阿里国际站**便宜得多，经常便宜 3 到 10 倍，但运费 2 到 6 周，板子到了是坏的也没售后
@@ -392,7 +387,6 @@ You will use all three every single week from here to month six, so get them out
 **Resources:**  
 
 **1. CS50P: Introduction to Programming with Python (Harvard, free)**  
-**1. CS50P：Python 编程导论（哈佛，免费）**
 
 Link:[https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
 
@@ -451,7 +445,7 @@ By the end of this month you should be able to:
   能口头解释为什么电机堵转会让微控制器复位
 
 ## Month 2: Microcontrollers, motors and sensors, and your first moving robot  
-## 第 2 个月：微控制器、电机和传感器，以及你的第一个会动的机器人
+**第 2 个月：微控制器、电机和传感器，以及你的第一个会动的机器人**
 
 Your goal this month: build a robot that moves, senses its environment, and corrects itself  
 本月目标：做出一个能移动、能感知环境并能自我纠正的机器人
@@ -584,7 +578,7 @@ Long-form, wiring-diagram-heavy tutorials with written articles mirroring every 
 **实践任务：** 做一件 Arduino Uno 上不可能存在的东西。让 ESP32 提供一个网页，显示实时传感器读数，并有按钮驱动舵机，然后从同一网络的手机访问。这同时教你 WiFi、HTTP 处理和异步工作
 
 ### 3. Motors, drivers and actuation  
-### 3. 电机、驱动器和执行
+**3. 电机、驱动器和执行**
 
 This is where electronics stops being abstract, because motors draw real current and behave badly  
 这里电子学不再抽象，因为电机真正耗电流，而且行为很差
@@ -662,7 +656,7 @@ The clearest free explanation of field-oriented control anywhere, and the afford
 **实践任务：** 用 PWM 让一个直流电机以五种不同速度正转和反转，然后加编码器，写一个函数让轮子不管电池电压如何都准确转一整圈。后半部分是你的第一个真正闭环，比听起来难得多
 
 ### 4. Sensors and reading the physical world  
-### 4. 传感器与读取物理世界
+**4. 传感器与读取物理世界**
 
 **Resources:**  
 
@@ -754,7 +748,7 @@ By the end of this month you should be able to:
   在 GitHub 上展示两个能工作的机器人，带接线、代码和“什么坏了”的书面记录
 
 ## Month 3: Mechanical design, CAD and manufacturing your own parts  
-## 第 3 个月：机械设计、CAD 以及制造自己的零件
+**第 3 个月：机械设计、CAD 以及制造自己的零件**
 
 Your goal this month: design a part in CAD, manufacture it, and have it fit  
 本月目标：在 CAD 中设计一个零件，制造它，并让它能装上
@@ -921,7 +915,7 @@ If you cannot buy a printer:
 **实践任务：** 打印公差量规，记下机器的真实间隙数字，然后设计和打印一个两件式卡扣 ESP32 外壳，不用胶水就能合上。迭代直到它咔嗒一声合好。这就是所有机械设计的循环
 
 ### 3. Actuators, transmissions and why robots are hard  
-### 3. 执行器、传动以及为什么机器人很难
+**3. 执行器、传动以及为什么机器人很难**
 
 Understanding gear reduction, backlash and torque density is what separates a robot that works in a video from a robot that works repeatedly  
 理解减速比、间隙和扭矩密度，才能把“视频里能工作的机器人”和“能反复工作的机器人”分开
@@ -944,7 +938,7 @@ Understanding gear reduction, backlash and torque density is what separates a ro
 Link: [https://www.instructables.com/OpenCycloid-3D-printed-Open-Source-Robotic-Actuato/](https://www.instructables.com/OpenCycloid-3D-printed-Open-Source-Robotic-Actuato/)
 
 ### 4. Build a real robot arm  
-### 4. 建造一个真实的机械臂
+**4. 建造一个真实的机械臂**
 
 This is the capstone of the month, and it is the single best hardware purchase in this entire roadmap  
 这是本月的压轴项目，也是整份路线图中最好的一笔硬件投资
@@ -993,7 +987,7 @@ Link: https://github.com/TheRobotStudio/SO-ARM100
 **实践任务：** 组装 SO-101，校准每一个舵机，用主臂遥操作从臂。然后用 TPU 设计和打印自己的夹爪手指替换原装的，在三个不同形状的物体上测试。这个臂是第 5、6 个月的平台，定制手指证明你既能设计也能组装
 
 ### Month 3 Milestone  
-### 第 3 个月里程碑
+**第 3 个月里程碑**
 
 By the end of this month you should be able to:  
 到本月末你应该能够：
@@ -1012,7 +1006,7 @@ By the end of this month you should be able to:
   展示一个你组装、校准并用自己零件改装过的能工作的机械臂
 
 ## Month 4: ROS 2, simulation, and building robots the way companies do  
-## 第 4 个月：ROS 2、仿真，以及像公司一样构建机器人
+**第 4 个月：ROS 2、仿真，以及像公司一样构建机器人**
 
 Your goal this month: build a robot in ROS 2, simulate it, and make it map a room and navigate autonomously  
 本月目标：在 ROS 2 中构建机器人，仿真它，让它建图并自主导航
@@ -1027,10 +1021,9 @@ The best part of this month is that **you can do all of it with no hardware at a
 本月最好的部分是：**你可以完全不需要硬件**，在普通笔记本上、没有 NVIDIA GPU 就能全部完成。对自己说两遍，因为“机器人学需要昂贵设备”的信念是人们永远不开始的主要原因
 
 ### What to learn  
-### 要学什么
 
 ### 1. Which ROS 2 to install, and the ROS 1 trap  
-### 1. 该装哪个 ROS 2，以及 ROS 1 陷阱
+**1. 该装哪个 ROS 2，以及 ROS 1 陷阱**
 
 ROS 2 releases every May. Even years are LTS with five years of support, odd years get about eighteen months  
 ROS 2 每年 5 月发布。偶数年是 LTS，支持五年；奇数年大约十八个月
@@ -1054,7 +1047,6 @@ As of September 2026 the picture is:
 **ROS 1 已死。** Noetic 在 2025 年 5 月 31 日到达生命周期终点，没有继任者。大量高排名教程内容是 ROS 1，所以要学会立刻识别：如果你看到 catkin_make、roscore、rosrun、rospy 或纯 XML 启动文件，关掉标签页。ROS 2 用 colcon build，没有 master，用 ros2 run 和 Python 启动文件
 
 ### 2. ROS 2 core concepts  
-### 2. ROS 2 核心概念
 
 **Resources:**  
 
@@ -1122,7 +1114,6 @@ Honest gap worth naming: **DDS and QoS settings are covered badly by every resou
 **实践任务：** 做一个完全没有机器人和仿真器的多节点系统。一个传感器发布者、一个处理节点、一个基于服务的配置节点和一个参数化聚合器，用你自己的自定义 .msg 和 .srv，在接受参数的 Python 启动文件里连在一起。用 ros2 bag 录制并回放。这零成本，证明你理解图而不是只会跑 turtlesim
 
 ### 3. URDF, TF and describing a robot  
-### 3. URDF、TF 以及描述机器人
 
 **Resources:**  
 
@@ -1162,7 +1153,7 @@ The canonical walkthrough, available in both C++ and Python variants
 **实践任务：** 用 xacro 设计你自己的机器人，不是 TurtleBot。差速驱动底盘、传感器桅杆和两自由度云台头，带正确惯性和分离的碰撞与视觉几何。用 joint_state_publisher_gui 驱动关节，在 RViz 看完整 TF 树。你自己的机器人在 RViz 里的截图是初学者作品集中最清晰的信号
 
 ### 4. Simulation  
-### 4. 仿真
+**4. 仿真**
 
 The Gazebo naming history confuses everyone, so here it is cleanly  
 Gazebo 命名历史让所有人困惑，所以这里干净说明
@@ -1246,14 +1237,14 @@ The only resource that walks the simulation-to-real-hardware transition properly
 
 **1. Nav2 Getting Started (free)**  
 
-Link: [https://docs.nav2.org/rolling/getting_started/index.html](https://docs.nav2.org/rolling/getting_started/index.html)
+Link:[https://docs.nav2.org/rolling/getting_started/index.html](https://docs.nav2.org/rolling/getting_started/index.html)
 
 Launches Nav2 in simulation in under five minutes, with a pre-configured VS Code dev container that removes all install pain  
 五分钟内在仿真中启动 Nav2，带预配置的 VS Code 开发容器，消除所有安装痛苦
 
 **2. Nav2 Tutorials (free)**  
 
-Link: [https://docs.nav2.org/rolling/tutorials/](https://docs.nav2.org/rolling/tutorials/)
+Link:[https://docs.nav2.org/rolling/tutorials/](https://docs.nav2.org/rolling/tutorials/)
 
 Covers SLAM, keepout zones, speed limits, collision monitoring, docking, GPS navigation, and writing your own planner, controller or behaviour-tree node  
 覆盖 SLAM、禁区、速度限制、碰撞监控、对接、GPS 导航，以及写自己的规划器、控制器或行为树节点
@@ -1299,7 +1290,7 @@ Hardware for real SLAM, three tiers:
 **实践任务：** 在你的 Gazebo 世界里跑 SLAM Toolbox，遥操作转一圈，保存地图，然后切到定位模式，从 RViz 发送 Nav2 目标。调代价地图直到它不再切角。然后录屏。一个机器人自主导航它自己建的地图的视频，是自学机器人工程师能产出的最有说服力的作品
 
 ### Month 4 Milestone  
-### 第 4 个月里程碑
+**第 4 个月里程碑**
 
 By the end of this month you should be able to:  
 到本月末你应该能够：
@@ -1318,7 +1309,7 @@ By the end of this month you should be able to:
   诊断坏掉的 TF 树，这是整个栈中最常见的失败
 
 ## Month 5: The maths that makes robots actually work  
-## 第 5 个月：让机器人真正工作的数学
+**第 5 个月：让机器人真正工作的数学**
 
 Your goal this month: understand and implement the control and perception underneath everything you have built  
 本月目标：理解并实现你之前构建的一切之下的控制和感知
@@ -1335,7 +1326,7 @@ You do not need all of it at research depth. You need working fluency in control
 ### What to learn  
 
 ### 1. Control theory, starting with PID  
-### 1. 控制理论，从 PID 开始
+**1. 控制理论，从 PID 开始**
 
 You already tuned a PID controller by feel in month two. Now learn why it worked  
 你在第 2 个月已经凭感觉调过 PID 控制器。现在学习它为什么有效
@@ -1397,7 +1388,7 @@ The rigorous textbook, released free by Princeton University Press, for when you
 **实践任务：** 拿第 2 个月的平衡机器人，在同一硬件上实现三个控制器：仅 P、PD，然后带前馈的 PID。把每个的阶跃响应记录到 CSV，画出三个，并写明你会发货哪一个以及为什么。那张图在面试里比任何证书都值钱
 
 ### 2. State space, LQR and MPC  
-### 2. 状态空间、LQR 和 MPC
+**2. 状态空间、LQR 和 MPC**
 
 **Resources:**  
 
@@ -1431,7 +1422,7 @@ This is where control theory becomes robotics: pendulums, cart-poles, walking, r
 **实践任务：** 在 Python 中为仿真小车倒立摆实现 LQR，然后用手调 PID 做同样的事，比较它们如何处理扰动。Tedrake 的笔记给你模型，所以你是在实现而不是推导
 
 ### 3. Kinematics and dynamics  
-### 3. 运动学与动力学
+**3. 运动学与动力学**
 
 **Resources:**  
 
@@ -1480,7 +1471,7 @@ Over 200 video lessons of under ten minutes each, labelled by prerequisite level
 **实践任务：** 根据连杆长度手算 SO-101 臂的正运动学，然后用 Robotics Toolbox 验证。再写一个数值 IK 求解器，让末端执行器移到命令的 XYZ，观察它在奇异点附近做什么。感觉手臂失去一个自由度才是让概念牢记的关键
 
 ### 4. Perception and computer vision  
-### 4. 感知与计算机视觉
+**4. 感知与计算机视觉**
 
 **Resources:**  
 
@@ -1565,7 +1556,7 @@ Six-DOF grasp generation in cluttered scenes from a depth map, and the standard 
 **实践任务：** 让 MoveIt 2 为仿真机械臂规划运动，在规划场景中加入碰撞物体，执行拾取放置。然后在唯一可行路径上放障碍物让它失败，观察规划器如何表现。理解规划器失败比看它成功更有价值
 
 ### Month 5 Milestone  
-### 第 5 个月里程碑
+**第 5 个月里程碑**
 
 By the end of this month you should be able to:  
 到本月末你应该能够：
@@ -1584,7 +1575,7 @@ By the end of this month you should be able to:
   在 MoveIt 2 中规划并执行无碰撞拾取放置
 
 ## Month 6: Robot learning, specialisation, and becoming hireable  
-## 第 6 个月：机器人学习、专精，以及变得可被雇佣
+**第 6 个月：机器人学习、专精，以及变得可被雇佣**
 
 Your goal this month: pick one direction, build a portfolio piece in it, and start applying  
 本月目标：选一个方向，在其中做出作品集作品，并开始申请
@@ -1653,7 +1644,7 @@ The exact port-finding, motor-setup, calibration and recording commands for the 
 **实践任务：** 在你的 SO-101 上记录 50 次单一简单任务的示范，比如拿起方块丢进箱子，训练 ACT 策略并部署。它可能一半时间能工作。然后再记录 50 次覆盖失败案例的示范并重新训练。记录前后的成功率。那个数字，以及你测量了它这一事实，就是作品集作品
 
 ### 2. Vision-language-action models  
-### 2. 视觉-语言-动作模型
+**2. 视觉-语言-动作模型**
 
 These are the foundation models of robotics, and knowing which ones you can actually run matters  
 这些是机器人学的基础模型，知道哪些你真正能跑很重要
@@ -1674,7 +1665,7 @@ These are the foundation models of robotics, and knowing which ones you can actu
   Google DeepMind 的 **RT-2** 历史上重要，**没有公开权重**，所以研究论文并用上面其中一个练习
 
 ### 3. Reinforcement learning for robotics  
-### 3. 机器人强化学习
+**3. 机器人强化学习**
 
 **Resources:**  
 
@@ -1776,7 +1767,6 @@ I looked at what recruiters in this field actually say they screen for, and the 
 **实践任务：** 拿你最好的三个项目重写它们的 README。每一个顶部需要视频、接线图或架构图、你测量的实际数字，以及一个标题为“什么坏了以及我怎么修的”的部分。最后这个部分是自学作品集中单一最高价值的东西，因为它是无法从教程伪造的部分
 
 ### 5. Interviews  
-### 5. 面试
 
 Robotics interviews are not software interviews, and leetcode is a much weaker predictor here  
 机器人面试不是软件面试，leetcode 在这里预测力弱得多

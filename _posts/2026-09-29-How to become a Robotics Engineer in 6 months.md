@@ -4,7 +4,7 @@ title:      "How to become a Robotics Engineer in 6 months (RESOURCES)"
 subtitle:   "如何在六个月内成为一名机器人工程师（含资源）"
 date:       2026-09-29 17:13
 author:     "Ronin Author、Arvin 译 "
-header-img: "img/in-post/bgimg/post-think-bg.jpg"
+header-img: "img/in-post/bgimg/Microduck.png"
 header-mask: 0.3
 tags:
     - Learn

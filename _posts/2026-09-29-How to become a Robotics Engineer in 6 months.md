@@ -8,7 +8,7 @@ header-img: "img/in-post/bgimg/post-think-bg.jpg"
 header-mask: 0.3
 tags:
     - Learn
-    - Think
+    - Robot
 ---
 
 **推荐语**
